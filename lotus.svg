@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Lotus ornament">
+  <!-- Lotus Sutra Stories — lotus line art, warm terracotta & lotus-pink -->
+  <g stroke="#b45309" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- centre petal -->
+    <path d="M60 16 C 51 33 51 54 60 68 C 69 54 69 33 60 16 Z"/>
+    <!-- outer petals -->
+    <path d="M55.5 66 C 39 62 26 53 20 38 C 35 42 49 53 55.5 66 Z"/>
+    <path d="M64.5 66 C 81 62 94 53 100 38 C 85 42 71 53 64.5 66 Z"/>
+    <!-- calyx base -->
+    <path d="M46 74 C 52 80 68 80 74 74"/>
+    <path d="M50 70 C 55 76 65 76 70 70"/>
+  </g>
+  <g stroke="#c76a7e" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <!-- inner side petals (lotus pink) -->
+    <path d="M57.5 62 C 46 54 39 44 37 30 C 48 38 55 49 57.5 62 Z"/>
+    <path d="M62.5 62 C 74 54 81 44 83 30 C 72 38 65 49 62.5 62 Z"/>
+  </g>
+  <g stroke="#d9a066" stroke-width="2" stroke-linecap="round">
+    <!-- water ripples -->
+    <path d="M24 90 q 6 5 12 0 q 6 -5 12 0 q 6 5 12 0 q 6 -5 12 0 q 6 5 12 0 q 6 -5 12 0"/>
+    <path d="M38 100 q 6 5 12 0 q 6 -5 12 0 q 6 5 12 0 q 6 -5 12 0"/>
+  </g>
+</svg>
