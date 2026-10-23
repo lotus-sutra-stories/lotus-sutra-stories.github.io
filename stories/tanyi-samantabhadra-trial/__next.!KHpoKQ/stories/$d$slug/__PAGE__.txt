@@ -1,0 +1,113 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/1idm-atwt7xto.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/_next/static/chunks/12bf3ph06c0o4.js"
+e:"/_next/static/chunks/0res65mkoc0od.js"
+f:"/_next/static/chunks/04lihr__t9k2r.js"
+10:"/_next/static/chunks/3c_9dufnvkuj5.js"
+11:"/_next/static/chunks/323a540bb9t2y.js"
+12:"/_next/static/chunks/04_zmzn2z7fjx.js"
+13:"/_next/static/chunks/3za4p1cvbn9mh.js"
+14:"/_next/static/chunks/1bcocl9na00vq.js"
+15:"/_next/static/chunks/11reodgisjoib.js"
+16:"/_next/static/chunks/3l6qrz8xqdl7l.js"
+17:I[81949,["$d","$e","$f","$10","$11","$12","$13","$14","$15","$16"],"StoryReader"]
+1f:"ViewportBoundary"
+20:I[97367,["$4"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$4"],"$21"]
+23:"$Sreact.suspense"
+24:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+18:Tdf0,# 曇翼法師：普賢來試，心如水月
+
+> 事見《法華經顯應錄》「高僧」門「天衣飛雲大師」條，並見《法華經持驗記》晉朝「晉釋曇翼」條（開頭兼載聽經雉因緣，即本站 S015）。以下白話譯註以《顯應錄》詳本為主。
+
+## 故事
+
+曇翼既已出家（前身因緣已見前篇），隨方參學問道。他先到廬山，依止遠法師，了悟宗乘；續入關中，禮見羅什，參預講譯經論，通達無礙，得大辯才。
+
+後來他與同學曇學東遊會稽，抵達秦望山。此山五峰雙㵎，氣象雄勝。於是伐石誅茆，為住山之計，專誦《法華經》，將近一紀（十二年）。
+
+一天黃昏，將近日暮，有一位女子，身披彩服，手提竹籠，籠內有一隻白豕、兩根大蒜，站在師前，哭泣著說：「妾是山前某家的女子，入山采薇，路上遇到猛虎，奔逃到這裡。天色已晚，草木陰陰翳，豺狼縱橫，歸家已無生路，敢求法師容我一宿可乎？」
+
+曇翼以嫌涉男女，堅決推卻。女子淚流哀求不已。曇翼不得已，讓她宿於草床之外，自己蒙頂誦經。
+
+到了三更，女子號呼疾作，自稱腹中疼痛，希求師一視。曇翼投藥與她，痛得更厲害，叫聲不絕，說：「若得師為我按摩臍腹之間，或可稍安；不然即死。佛法以慈悲方便為本，師忍心坐視，不肯伸手相救嗎？」
+
+曇翼說：「我是持大戒的僧人，按摩女身，這是什麼道理？」懇求既然急切，他便以巾布裹住錫杖頭，遙遙為她按摩。過了一會，女子說：「已經不必了。」
+
+翌日清晨，女子步出庭院——彩服化為祥雲，白豕變為白象，大蒜化為雙蓮。女子足踏蓮華，跨象乘雲，對曇翼說：
+
+「我是普賢菩薩。因為你不久當歸我眷屬之眾，特來相試。觀你心中，如水中之月，不可染污。」
+
+言畢，縹緲而去。其時天上雨華，大地震動，鄉人聞見，莫不稱歎。
+
+這一天，太守孟顗清晨視事，忽見南方祥雲氤氳，光射庭際，雲下隱隱有金石絲竹之音。查訪之下，得到曇翼普賢示化的始末，便連同他的道行一起上聞朝廷。朝廷奉敕建寺，額號「法華」——時為東晉安帝義熙十三年（417）。這座寺，就是今天的天衣寺。
+
+曇翼享年七十，在此山圓寂。寺僧以真身加以髹漆供奉。經歷唐武宗廢佛之難，寺眾把他的像藏於寺南樹腹之中，得不毀壞。吳越國武肅王特賜諡號「飛雲大師」。
+
+## 編者省思
+
+這是本站「現世安樂」主題中流傳最廣的一則，也是〈普賢勸發品〉（本站 S002）最生動的一次「應驗」：經文說受持者「若行若立讀誦此經，我時乘六牙白象……現身供養守護」，曇翼所得的，正是白象現身——只不過以「試探」的方式出現。
+
+試探的設計極具匠心：深夜、孤山、絕色女子、求宿、求按摩，層層進逼；曇翼的應對也層層有度——堅卻、讓床、蒙頂誦經、投藥、布裹錫杖遙為按摩。最後謎底揭曉：豕變白象（六牙白象的異寫）、蒜化雙蓮（蓮華清淨的對照）。「心如水中月，不可染污」八個字，是全部感應錄文獻中最美的驗語之一。
+
+讀者也請留意原書的史筆：普賢明言「不久當歸我眾」——這是預記其命終歸入普賢眷屬，而非往生西方。本站如實分類，不把這則「白象感應」誤讀為淨土往生記載。
+19:T15d6,# Master Tanyi: Samantabhadra Comes to Test Him — a Mind Like the Moon in Water
+
+> Recorded in the "Eminent Monks" section of the *Xianying lu* under "Master Feiyun of Tianyi", and again in the Jin section of the *Chiyan ji* under "The monk Tanyi of the Jin" (which opens with the listening-pheasant episode, S015 in this collection). The English rendering follows the fuller *Xianying lu*.
+
+## The Story
+
+Tanyi, once ordained (his former life is told in the previous account), travelled everywhere to study the Way. He first went to Mount Lu and relied on Master Yuan (Huiyuan), awakening to the purport of the vehicle; then he entered Guanzhong and paid homage to Kumārajīva, taking part in the lecturing and translating of sutras and treatises until he understood without obstruction and won great powers of exposition.
+
+Later he and his fellow-student Tanxue travelled east to Kuaiji and arrived at Mount Qinwang — five peaks and twin ravines, majestic in aspect. There they quarried stone and cut thatch to settle, and Tanyi recited the Lotus Sutra exclusively for nearly a full cycle of twelve years.
+
+One evening, as dusk was falling, a woman in embroidered robes appeared, carrying a bamboo basket with a white piglet and two stalks of garlic, and standing before the master she wept and said: "I am a daughter of a family before the hill; I went into the mountains to gather greens, met a fierce tiger on the road, and fled here. The day is ending, the trees are dark, wolves and jackals roam — I have no way home alive. Might the master permit me one night's lodging?"
+
+Tanyi, mindful of the impropriety, firmly refused. The woman wept and pleaded without cease. Reluctantly he allowed her a bed of grass apart from his own, and covered his head and recited the sutra.
+
+At the third watch she cried out in sudden illness, saying her belly was in violent pain and begging him to look at her. He gave her medicine; the pain grew worse, her screams unbroken: "If the master would but massage my belly, I might find some ease — otherwise I shall die. The Buddha's Dharma takes compassion and skillful means as its root; can the master bear to sit by and refuse to stretch out one hand to save me?"
+
+Tanyi said: "I am a monk under the great precepts — to touch a woman's body, what manner of thing is that?" But the pleading was so urgent that he wrapped his staff's head in cloth and massaged her from a distance. After a little while the woman said: "It is no longer needed."
+
+At dawn the woman stepped into the courtyard — her embroidered robes dissolved into auspicious cloud, the piglet turned into a white elephant, the garlic into twin lotuses. With her feet upon the lotuses, mounted on the elephant, riding the cloud, she said to Tanyi:
+
+"I am the Bodhisattva Samantabhadra. You shall soon return to my assembly, and I have come expressly to test you. I have observed the mind within you: like the moon in water — it cannot be stained."
+
+With these words she faded into the distance. Flowers rained from heaven and the earth trembled; the villagers who saw and heard could not withhold their praise.
+
+That very morning the governor Meng Yi, at his desk since early dawn, saw in the south an auspicious cloud breathing light that shot across his courtyard, with the faint sound of chimes and strings beneath it. On inquiry he received the whole account of Samantabhadra's manifestation to Tanyi, and reported it to the throne together with the master's practice. An imperial decree established a monastery, titled "Fahua" — the Lotus — in the thirteenth year of Yixi of Emperor An of the Eastern Jin (417). That monastery is today's Tianyi Monastery.
+
+Tanyi lived to seventy and passed away on that mountain. The community lacquered his true body and kept it there. Through the persecution of the Huichang era, when Buddhism was abolished, the monks hid his image in the hollow of a tree south of the monastery and it escaped destruction. The Martial and Solemn King of Wuyue conferred on him the posthumous title "Master Feiyun" — Flying Cloud.
+
+## Editor's Reflection
+
+This is the most widely circulated account in this site's "peace in this life" theme, and the most vivid fulfilment of the "Encouragement of Samantabhadra" chapter (S002 in this collection): the sutra promises that one who upholds and recites it "whether walking or standing, I shall mount my six-tusked white elephant… and manifest to make offerings and protect" — what Tanyi received was precisely the white elephant's manifestation, though in the guise of a test.
+
+The design of the test is exquisite: deep night, a lone mountain, a beautiful woman, the plea for lodging, the plea for massage — pressure layered upon pressure; and Tanyi's response has its own measure at every layer — the firm refusal, the separate bed, the covered head and recitation, the medicine, the cloth-wrapped staff. Then the riddle unfolds: the pig becomes the white elephant (the six-tusked elephant in another key), the garlic becomes twin lotuses (purity set against its pungency). "A mind like the moon in water — it cannot be stained" is among the most beautiful words of certification in the whole literature of responses.
+
+Let the reader also notice the historian's discipline of the source: Samantabhadra says plainly "you shall soon return to my assembly" — a prediction that at death he joins Samantabhadra's retinue, not that he is reborn in the Western Pure Land. This site classifies accordingly, refusing to misread this "white elephant response" as a Pure Land rebirth record.
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L17",null,{"locale":"zh","meta":{"id":"S016","slug":"tanyi-samantabhadra-trial","status":"published","title":{"zh":"曇翼法師：普賢來試，心如水月","en":"Master Tanyi: Samantabhadra Comes to Test Him — a Mind Like the Moon in Water"},"person":{"zh":"曇翼","en":"Tanyi"},"aliases":["曇翼","翼法師","飛雲大師","Tanyi"],"period":{"label":{"zh":"東晉（？–約421後）","en":"Eastern Jin (d. after c. 421)"},"note":{"zh":"義熙十三年（417）入秦望山；吳越王諡「飛雲大師」。前身因緣見 S015。","en":"Entered Mount Qinwang in 417; posthumously titled 'Master Feiyun' by the King of Wuyue. For his earlier incarnation see S015."}},"themes":["peaceful-life"],"secondaryTypes":["sutra-protection","auspicious"],"practices":["recite"],"rebirthClaim":"interpreted","reportedDestination":"other","aspirationForSukhavati":"uncertain","isSutraNarrative":false,"synopsis":{"zh":"曇翼（前身即法志座下聽經雉，見 S015）入會稽秦望山，結法華精舍，專誦《法華》十二年。一夕，彩服女子携籠盛白豕、大蒜二莖至，乞宿；半夜腹痛求按摩，翼以布裹錫杖遙按摩之。翌晨，女子彩服化祥雲、豕變白象、蒜化雙蓮——自言「我普賢菩薩也，以汝不久當歸我眾，特來相試；觀汝心如水中月，不可染污」。天雨華、地震動。太守孟顗以聞於朝，敕建法華寺（即今天衣寺）。師化後真身留山中。","en":"Tanyi (the pheasant of Fazhi's sutra-recitation in a former life, S015) entered Mount Qinwang in Kuaiji, built the Lotus Hermitage, and recited the Lotus Sutra there for twelve years. One evening a woman in embroidered robes arrived carrying a basket with a white piglet and two stalks of garlic, begging a night's lodging; at midnight she cried out with belly-pain and begged him to massage her — he wrapped his staff in cloth and massaged from a distance. At dawn her robes turned to auspicious cloud, the pig to a white elephant, the garlic to twin lotuses, and she declared: 'I am Samantabhadra Bodhisattva. You shall soon join my assembly, and I have come to test you: your mind is like the moon in water — it cannot be stained.' Flowers rained from heaven, the earth trembled. Governor Meng Yi reported to the throne, which decreed the building of Fahua Monastery — today's Tianyi Monastery. After his death his true body remained on the mountain."},"witnesses":[{"work":"X1540","juan":1,"heading":"天衣飛雲大師","anchorStart":"X78n1540_p0033b01","anchorEnd":"X78n1540_p0033b01","locator":"冊78, 頁0033b01–b01","url":"https://deerpark.app/cbeta/X1540/1","accessed":"2026-10-23","paragraphs":[{"anchor":"0033b01","text":"師諱曇翼，氏族先因，已見前篇。既為僧已，隨方問道。初詣廬山，依遠法師，了悟宗乘。續入關中，禮觀羅什，講譯經論，通達無礙，得大辯才。後與同學曇學東游會稽，因抵秦望山，別朵五峰雙㵎，氣象雄勝。因伐石誅茆，為住山計，專誦法華，僅于一紀。一日將曛，有一女子，身披彩服，手擕筠籠，內有白豕一隻，大蒜兩根，立於師前，泣而言曰：妾山前某氏女，入山采薇，路逢猛虎，奔遁至此。日已夕，草木陰翳，豺狼縱橫，歸無生理，敢託一宿可乎？師稱嫌疑，堅卻不從。女則兩淚哀嗚，師不得已，讓以草牀，即蒙頂誦經。至于三更，號呼疾作，稱腹疼痛，覬師視之。師投以藥，女子痛益甚，呌不絕聲，曰：儻得師為我案摩臍腹間，庶得少安，不然即死。佛法以慈悲方便為本，師忍坐觀，不一引手見救耶？師曰：吾大戒僧，摩娑女身，此何理也？懇求之切，即以巾布裹錫杖頭，遙以案摩。斯須告云：已不必矣。翌晨，女出庭際，以彩服化祥雲，豕變白象，蒜化雙蓮。女子足躡蓮華，跨象乘雲，而謂師曰：我普賢菩薩也。以汝不久當歸我眾，特來相試。觀汝心中，如水中月，不可汙染。言訖，縹緲而去。爾時天上雨華，地皆震動。鄉人聞見，莫不稱歎。是日，太守孟公顗方晨起視事，忽見南方祥雲氤氳，光射庭際，而雲下隱隱有金石絲竹之音。訪問，得師普賢示化狀，遂併師之道行聞于朝廷。即奉勑建寺，額號法華。時晉安帝義熈十三年也。師享壽七十，圓寂此山。寺僧即真身而加塑焉。歷唐武廢教，眾以其像藏于寺南樹腹中，得不毀。吳越國武肅王特諡飛雲大師云。〔注：即今天衣寺是〕〔注：師事迹，僧傳、珠林皆紀之。\n天衣又有本傳、實錄，所有異同處，謹詳而錄之〕"}]},{"work":"X1541","juan":1,"heading":"晉釋曇翼","anchorStart":"X78n1541_p0066a19","anchorEnd":"X78n1541_p0066a19","locator":"冊78, 頁0066a19–a19","url":"https://deerpark.app/cbeta/X1541/1","accessed":"2026-10-23","paragraphs":[{"anchor":"0066a19","text":"餘杭人。初，沙門法志常誦法華，有雉翔集座隅，如聽經狀。七年雉殞，志瘞之。夜夢一童子拜曰：因聽經得脫羽類，今生山前王氏家矣。王氏一日設齋，志乃踵門。兒曰：我和上來也。志撫之曰：此我雉兒也。解衣視腋下，果有雉毛三莖，因名以翼。七歲出家，十六薙髮。初入廬山依遠公，繼往關中師羅什。義熙十三年，東還會稽，入秦望山，結茆菴，稱法華精舍，專誦法華。越十二年，有女子披彩服，携籠，盛一白豕，大蒜兩莖，至師前曰：妾入山采薇，日夕矣。豺狼縱橫，歸無生理，敢託一宿。師却之甚力，女哀鳴不已，遂令居草床上。夜半，號呼腹疼，求師按摩。師以布裹錫杖，遙為按之。翌日，女以彩服化祥雲，豕變白象，蒜化雙蓮，凌空而上。謂師曰：我普賢菩薩也。以汝不久當歸，我眾特來相試。觀汝心真如水中月，不可染污也。既而天為雨華，地皆震動。太守孟覬方晨起視事，忽見南方祥雲光射庭際，知普賢示化，遂以聞於朝。敕建法華寺，即今天衣寺也。師既化，漆其身留山中。"}]}],"editorial":{"sourceVerifiedDate":"2026-10-23","translationStatus":{"zh":"editorial-draft","en":"editorial-draft"}}},"texts":{"zh":"$18","en":"$19","notes":"# 考證與異文 — 曇翼\n\n## 版本與出處\n\n- 見證一：《法華經顯應錄》卷一「高僧」門「天衣飛雲大師」條（X78n1540_p0033b01）。原書夾注二則：「即今天衣寺是」「師事迹，僧傳、珠林皆紀之。天衣又有本傳、實錄，所有異同處，謹詳而錄之」。\n- 見證二：《法華經持驗記》卷一晉朝「晉釋曇翼」條（X78n1541_p0066a18），開頭節載聽經雉因緣。\n- 底本：CBETA X78 數位版，2026-10-23 核對。\n\n## 文字校勘（兩本異文對照）\n\n| 《顯應錄》（詳） | 《持驗記》（略） |\n|---|---|\n| 入山采薇，路逢猛虎，奔遁至此 | 入山采薇，日夕矣，豺狼縱橫 |\n| 以巾布裹錫杖頭，遙以案摩 | 以布裹錫杖，遙為按之 |\n| 晉安帝義熙十三年（有年號） | 義熙十三年（同） |\n| 吳越武肅王諡飛雲大師 | 師既化，漆其身留山中 |\n\n- 《持驗記》本明言「敕建法華寺，即今天衣寺也」；《顯應錄》以夾注出之。\n- 「案摩」即「按摩」之古寫；「顗」＝孟顗，二本同（《顯應錄》作「孟公顗」）。\n- 「雙㵎」之「㵎」為「澗」之異體，依底本保留。\n\n## 分類依據\n\n- 主題：現世安樂；次類：護經與菩薩感應（普賢現身）、吉祥瑞相（雨華地動）。\n- rebirthClaim=interpreted／reportedDestination=**other**：普賢明言「不久當歸我眾」——預記歸入普賢眷屬，非西方淨土。aspirationForSukhavati=uncertain（全條無淨土願行語）。\n- cross-reference：前身因緣見 S015（法志與聽經雉）。\n\n## 待辦\n\n- 譯註為編輯初稿，待獨立審校。\n- 《高僧傳》無曇翼專傳（原書夾注所謂「僧傳」或指別傳系統），暫未能覆核，如實存疑。\n"},"prev":{"slug":"fazhi-listening-pheasant","title":"法志與聽經雉：七載聽經，腋下雉毳"},"next":{"slug":"daosheng-lion-seat","title":"道生法師：頓悟成佛，踞師子座"},"related":[{"id":"S002","slug":"samantabhadra-exhortation","title":{"zh":"普賢菩薩勸發：滅後受持，得經四法","en":"Samantabhadra's Exhortation: Four Dharmas for Obtaining the Sutra"},"person":{"zh":"普賢菩薩、釋迦牟尼佛","en":"Samantabhadra Bodhisattva; Śākyamuni Buddha"},"periodLabel":{"zh":"佛經所述（靈山會上）","en":"Within the Lotus Sutra narrative (the assembly on Vulture Peak)"},"themes":["peaceful-life"],"secondaryTypes":["sutra-protection","peace-diligence"],"practices":["recite","uphold"],"rebirthClaim":"not-stated","reportedDestination":"unspecified","aspirationForSukhavati":"uncertain","isSutraNarrative":true,"synopsis":{"zh":"《法華經》終品：普賢菩薩自東方寶威德上王佛國來，請問如來滅後眾生云何能得是經。佛說成就四法當得是經；普賢復誓言於後五百歲守護受持者，乘六牙白象現身護念，若有忘失一句一偈，皆當教之。","en":"In the sutra's final chapter, Samantabhadra arrives from the eastern realm of the Buddha Jewel-Majesty-Virtue-Sovereign-King to ask how beings will obtain the sutra after the Tathāgata's passing. The Buddha names four dharmas; Samantabhadra then vows to protect upholders of the sutra in the later evil age, manifesting mounted on his six-tusked white elephant, and teaching back any line or verse they forget."},"witnessCount":1,"translationStatus":{"zh":"editorial-draft","en":"editorial-draft"}},{"id":"S003","slug":"kumarajiva-translator","title":{"zh":"鳩摩羅什：譯出妙法，舌根不壞","en":"Kumārajīva: The Translator Whose Tongue Did Not Burn"},"person":{"zh":"鳩摩羅什","en":"Kumārajīva"},"periodLabel":{"zh":"東晉・後秦（344–413）","en":"Eastern Jin / Later Qin (344–413)"},"themes":["peaceful-life"],"secondaryTypes":["sutra-protection","auspicious"],"practices":["translate","lecture"],"rebirthClaim":"not-stated","reportedDestination":"unspecified","aspirationForSukhavati":"uncertain","isSutraNarrative":false,"synopsis":{"zh":"龜茲僧鳩摩羅什應姚興之請入長安，於逍遙園草堂寺譯出《妙法蓮華經》。臨終誓言：若所譯無謬，焚身之後舌不焦爛。闍維之後，舌果然不壞。本站所依兩部感應錄，皆以此事開篇。","en":"The Kuchean monk Kumārajīva, invited to Chang'an by Yao Xing, translated the Lotus Sutra at Caotang Monastery. Before dying he vowed that if his translations were without error, his tongue would remain unburnt after cremation — and so it proved. Both response-compilations used by this site open with him."},"witnessCount":2,"translationStatus":{"zh":"editorial-draft","en":"editorial-draft"}},{"id":"S010","slug":"fatai-sutra-unsunk","title":{"zh":"法泰法師：墮水之經，宛無濕處","en":"Master Fatai: The Sutra That Fell into the River and Did Not Get Wet"},"person":{"zh":"法泰","en":"Fatai"},"periodLabel":{"zh":"隋（眉州）","en":"Sui dynasty (Meizhou)"},"themes":["peaceful-life"],"secondaryTypes":["sutra-protection","auspicious"],"practices":["recite","copy"],"rebirthClaim":"not-stated","reportedDestination":"unspecified","aspirationForSukhavati":"uncertain","isSutraNarrative":false,"synopsis":{"zh":"隋眉州法泰，常誦法華，手寫一部。送往益州裝潢途中，經卷墮笮橋水中，求之不得；師悲泣巡岸，忽望小洲上有一襆，取之即經——草木擎之，宛無濕處。後以檀香為軸裝竟還寺，每夜異香滿室。彪法師夜至其誦經所，見諸人眾胡跪合掌，流汗而退。","en":"Fatai of Meizhou in Sui times constantly recited the Lotus Sutra and copied it out by hand. Sent to Yizhou for mounting, the scroll fell from the Zao bridge into the water and could not be found; he wept and searched along the bank — then saw a bundle on a small islet. It was the sutra, held up by grass and branches, without a single wet spot. Mounted with sandalwood rollers and returned, it filled the room each night with uncanny fragrance. Master Biao, visiting his recitation hall at night, saw a crowd kneeling with palms joined — and withdrew in a sweat."},"witnessCount":2,"translationStatus":{"zh":"editorial-draft","en":"editorial-draft"}},{"id":"S013","slug":"huiqing-storm-rescue","title":{"zh":"慧慶法師：風濤之中，覺有扶挽","en":"Master Huiqing: In the Storm, Hands That Seemed to Hold the Boat"},"person":{"zh":"慧慶","en":"Huiqing"},"periodLabel":{"zh":"劉宋元嘉年間（廬山）","en":"Yuanjia era, Liu Song (Mount Lu)"},"themes":["peaceful-life"],"secondaryTypes":["rescue","auspicious"],"practices":["recite"],"rebirthClaim":"not-stated","reportedDestination":"unspecified","aspirationForSukhavati":"uncertain","isSutraNarrative":false,"synopsis":{"zh":"劉宋慧慶，廣陵人，居廬山，學通經律，戒行精嚴。夜誦法華，每聞暗中彈指讚歎之聲。元嘉中渡江遇風，舟將覆沒，惟誦經不輟；覺舟在波濤中如有人牽挽，倐忽抵岸。自是誦習至老不倦。原書夾注出《法苑珠林》。","en":"Huiqing of the Liu Song, a Guangling man living on Mount Lu, had mastered both sutras and Vinaya and kept the precepts with rigour. Reciting the Lotus Sutra at night, he would hear fingers snapping in the dark in applause. Crossing the river in the Yuanjia era his boat met a gale and was on the point of capsizing; he only recited on without break, and felt the boat borne through the waves as if hands were pulling it — in a moment it reached the bank. From then on he recited without tiring into old age. The source cites the Fayuan zhulin."},"witnessCount":2,"translationStatus":{"zh":"editorial-draft","en":"editorial-draft"}}]}],["$L1a","$L1b","$L1c"],"$L1d"]}],"p":"$@1e","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"tanyi-samantabhadra-trial","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"stories","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"曇翼法師：普賢來試，心如水月 · 法華感應錄"}],["$","meta","1",{"name":"description","content":"曇翼（前身即法志座下聽經雉，見 S015）入會稽秦望山，結法華精舍，專誦《法華》十二年。一夕，彩服女子携籠盛白豕、大蒜二莖至，乞宿；半夜腹痛求按摩，翼以布裹錫杖遙按摩之。翌晨，女子彩服化祥雲、豕變白象、蒜化雙蓮——自言「我普賢菩薩也，以汝不久當歸我眾，特來相試；觀汝心如水中月，不可染污」。天雨華、地震動。太守孟顗以聞於朝，敕建法華寺（即今天衣寺）。師化後真身留山中。"}],["$","meta","2",{"name":"application-name","content":"法華感應錄"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.github.io/stories/tanyi-samantabhadra-trial/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.github.io/stories/tanyi-samantabhadra-trial/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.github.io/en/stories/tanyi-samantabhadra-trial/"}],["$","meta","6",{"property":"og:title","content":"曇翼法師：普賢來試，心如水月 · 法華感應錄"}],["$","meta","7",{"property":"og:description","content":"曇翼（前身即法志座下聽經雉，見 S015）入會稽秦望山，結法華精舍，專誦《法華》十二年。一夕，彩服女子携籠盛白豕、大蒜二莖至，乞宿；半夜腹痛求按摩，翼以布裹錫杖遙按摩之。翌晨，女子彩服化祥雲、豕變白象、蒜化雙蓮——自言「我普賢菩薩也，以汝不久當歸我眾，特來相試；觀汝心如水中月，不可染污」。天雨華、地震動。太守孟顗以聞於朝，敕建法華寺（即今天衣寺）。師化後真身留山中。"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"曇翼法師：普賢來試，心如水月 · 法華感應錄"}],["$","meta","11",{"name":"twitter:description","content":"曇翼（前身即法志座下聽經雉，見 S015）入會稽秦望山，結法華精舍，專誦《法華》十二年。一夕，彩服女子携籠盛白豕、大蒜二莖至，乞宿；半夜腹痛求按摩，翼以布裹錫杖遙按摩之。翌晨，女子彩服化祥雲、豕變白象、蒜化雙蓮——自言「我普賢菩薩也，以汝不久當歸我眾，特來相試；觀汝心如水中月，不可染污」。天雨華、地震動。太守孟顗以聞於朝，敕建法華寺（即今天衣寺）。師化後真身留山中。"}],["$","link","12",{"rel":"icon","href":"/lotus.svg"}],["$","$L24","13",{}]]}]}],null]}],null]}],"p":"$@25","v":null,"s":"$9"}},"a":"$@26","u":"$@27","b":"rivJLuYe9MM_Euf20e5x3"}
+28:I[97367,["$4"],"OutletBoundary"]
+1a:["$","script","script-0",{"src":"/_next/static/chunks/1bcocl9na00vq.js","async":true}]
+1b:["$","script","script-1",{"src":"/_next/static/chunks/11reodgisjoib.js","async":true}]
+1c:["$","script","script-2",{"src":"/_next/static/chunks/3l6qrz8xqdl7l.js","async":true}]
+1d:["$","$L28",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+27:true
+9:300
+29:null
+9:C
+26:0
+b:"$undefined"
+7:"$undefined"
+25:"$undefined"
+1e:"$undefined"
