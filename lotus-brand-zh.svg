@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560" width="560" height="560" role="img" aria-label="Lotus Sutra Stories">
+
+  <defs>
+    <linearGradient id="gRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D3A374"/>
+      <stop offset="0.52" stop-color="#BE8A52"/>
+      <stop offset="1" stop-color="#A67A42"/>
+    </linearGradient>
+    <radialGradient id="gDot" cx="0.38" cy="0.35" r="0.9">
+      <stop offset="0" stop-color="#D69655"/>
+      <stop offset="1" stop-color="#C08143"/>
+    </radialGradient>
+    <radialGradient id="gBlush" cx="0.5" cy="0.45" r="0.65">
+      <stop offset="0" stop-color="#F3D7C4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F3D7C4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gP0" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#FAEDDC"/>
+      <stop offset="0.42" stop-color="#E89890"/>
+      <stop offset="1" stop-color="#F2C0B0"/>
+    </linearGradient>
+    <linearGradient id="gP1" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#E5A096"/>
+      <stop offset="0.30" stop-color="#F6DFCB"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP2" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#EFB4A4"/>
+      <stop offset="0.45" stop-color="#F7E3D2"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP3" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#F3CFC0"/>
+      <stop offset="0.5" stop-color="#FBF2E3"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP4" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#F7E7D3"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0,-6)">
+  <defs>
+    <linearGradient id="gRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D3A374"/>
+      <stop offset="0.52" stop-color="#BE8A52"/>
+      <stop offset="1" stop-color="#A67A42"/>
+    </linearGradient>
+    <radialGradient id="gDot" cx="0.38" cy="0.35" r="0.9">
+      <stop offset="0" stop-color="#D69655"/>
+      <stop offset="1" stop-color="#C08143"/>
+    </radialGradient>
+    <radialGradient id="gBlush" cx="0.5" cy="0.45" r="0.65">
+      <stop offset="0" stop-color="#F3D7C4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F3D7C4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gP0" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#FAEDDC"/>
+      <stop offset="0.42" stop-color="#E89890"/>
+      <stop offset="1" stop-color="#F2C0B0"/>
+    </linearGradient>
+    <linearGradient id="gP1" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#E5A096"/>
+      <stop offset="0.30" stop-color="#F6DFCB"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP2" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#EFB4A4"/>
+      <stop offset="0.45" stop-color="#F7E3D2"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP3" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#F3CFC0"/>
+      <stop offset="0.5" stop-color="#FBF2E3"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+    <linearGradient id="gP4" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#F7E7D3"/>
+      <stop offset="1" stop-color="#FDFAF1"/>
+    </linearGradient>
+  </defs>
+   <circle cx="280.0" cy="280.0" r="251.0" fill="none" stroke="url(#gRing)" stroke-width="9.0"/>
+   <ellipse cx="280" cy="300" rx="150" ry="95" fill="url(#gBlush)"/>
+   <g>    <path d="M 71.7,304.7 C 120.6,299.8 165.4,273.5 199.9,283.4 C 268.0,303.0 288.5,329.3 296.7,352.5 C 279.8,370.4 250.3,386.1 180.1,376.3 C 144.6,371.3 114.4,329.1 71.7,304.7 Z" fill="url(#gP4)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 488.3,304.7 C 445.6,329.1 415.4,371.3 379.9,376.3 C 309.7,386.1 280.2,370.4 263.3,352.5 C 271.5,329.3 292.0,303.0 360.1,283.4 C 394.6,273.5 439.4,299.8 488.3,304.7 Z" fill="url(#gP4)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 77.4,232.0 C 132.0,245.5 188.5,236.1 222.9,259.0 C 280.8,298.4 295.0,332.4 296.2,358.4 C 273.1,370.3 236.6,375.0 173.5,344.6 C 136.5,326.2 116.4,272.5 77.4,232.0 Z" fill="url(#gP3)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 482.6,232.0 C 443.6,272.5 423.5,326.2 386.5,344.6 C 323.4,375.0 286.9,370.3 263.8,358.4 C 265.0,332.4 279.2,298.4 337.1,259.0 C 371.5,236.1 428.0,245.5 482.6,232.0 Z" fill="url(#gP3)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 161.8,167.0 C 198.9,199.9 246.0,215.8 264.0,247.6 C 299.5,310.4 297.9,342.6 289.5,363.6 C 266.9,362.7 236.8,351.2 193.9,293.1 C 172.2,263.8 176.7,214.2 161.8,167.0 Z" fill="url(#gP1)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 398.2,167.0 C 383.3,214.2 387.8,263.8 366.1,293.1 C 323.2,351.2 293.1,362.7 270.5,363.6 C 262.1,342.6 260.5,310.4 296.0,247.6 C 314.0,215.8 361.1,199.9 398.2,167.0 Z" fill="url(#gP1)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M 280.0,102.0 C 291.4,208.0 318.0,294.7 316.1,375.6 C 312.3,300.8 296.0,353.9 280.0,368.8 C 264.0,353.9 247.7,300.8 243.9,375.6 C 242.0,294.7 268.6,208.0 280.0,102.0 Z" fill="url(#gP0)" stroke="#BE8A52" stroke-width="3.2" stroke-linejoin="round"/>
+   </g>
+    <circle cx="280" cy="387" r="10.5" fill="url(#gDot)"/>
+   <g>    <path d="M 112.1,408.4 L 126.3,406.2 L 146.6,402.6 L 169.2,398.8 L 190.6,395.7 L 210.1,393.2 L 229.5,390.9 L 248.8,389.3 L 268.0,389.0 L 287.4,389.3 L 307.0,390.9 L 327.0,393.1 L 347.4,395.4 L 370.2,397.4 L 394.7,399.9 L 416.6,402.1 L 431.9,403.4 L 432.1,402.6 L 417.0,399.4 L 395.3,395.1 L 371.2,390.6 L 348.6,386.6 L 328.3,383.6 L 308.2,380.5 L 288.1,378.1 L 268.0,377.0 L 247.9,378.5 L 228.3,381.1 L 208.8,384.6 L 189.4,388.3 L 168.1,393.0 L 145.7,398.5 L 125.7,403.7 L 111.9,407.6 Z" fill="#BE8A52"/>
+    <path d="M 132.1,448.4 L 147.3,445.9 L 169.1,442.0 L 193.3,437.8 L 215.6,434.6 L 235.4,432.0 L 254.8,429.9 L 273.7,428.7 L 291.9,428.6 L 309.9,429.2 L 327.6,431.0 L 344.9,433.5 L 361.3,435.9 L 377.7,438.1 L 393.9,440.7 L 408.0,443.0 L 417.9,444.4 L 418.1,443.6 L 408.6,440.5 L 394.9,436.4 L 378.9,432.0 L 362.7,428.1 L 346.4,424.8 L 329.0,421.5 L 310.8,418.8 L 292.1,417.4 L 273.1,418.5 L 253.8,420.8 L 234.3,423.9 L 214.4,427.4 L 192.2,432.3 L 168.3,438.0 L 146.8,443.6 L 131.9,447.6 Z" fill="#BE8A52"/>
+    <path d="M 198.1,488.4 L 212.9,486.2 L 234.2,482.7 L 257.5,479.0 L 278.5,476.4 L 296.4,474.6 L 313.5,473.4 L 329.7,472.8 L 344.9,473.0 L 359.2,473.3 L 372.8,474.5 L 385.5,476.0 L 397.4,477.5 L 408.9,478.8 L 419.9,480.3 L 429.3,481.7 L 435.9,482.4 L 436.1,481.6 L 429.8,479.3 L 420.7,476.4 L 410.0,473.3 L 398.6,470.5 L 386.7,468.2 L 373.9,465.9 L 359.9,464.0 L 345.1,463.0 L 329.4,463.6 L 312.9,465.0 L 295.6,467.0 L 277.5,469.6 L 256.6,473.8 L 233.4,478.9 L 212.5,483.9 L 197.9,487.6 Z" fill="#BE8A52"/>
+   </g></g>
+  <text x="280" y="549" text-anchor="middle" fill="#692300"
+    font-family="'Noto Serif TC','Songti TC','PMingLiU',Georgia,serif"
+    font-size="58" letter-spacing="10" font-weight="600">法華感應錄</text>
+</svg>
