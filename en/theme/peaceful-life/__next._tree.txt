@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/1p7u7yq2jhhec.css","style"]
+:HL["/_next/static/chunks/22wj5ai04bc3g.css","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"theme","t":"d","k":"peaceful-life","s":[]},"h":96,"c":"$Q5"}]]
 3:[["children",{"s":"theme","h":64,"c":"$Q4"}]]
 2:[["children",{"s":"en","h":48,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
-0:{"b":"1fJV3uK95aHc8tbGCqgc4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aomzo607l8yRdg6kAu-NA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

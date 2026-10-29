@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/1p7u7yq2jhhec.css","style"]
+:HL["/_next/static/chunks/22wj5ai04bc3g.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"kumarajiva-translator","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"stories","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
-0:{"b":"1fJV3uK95aHc8tbGCqgc4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aomzo607l8yRdg6kAu-NA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
