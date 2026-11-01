@@ -1,0 +1,33 @@
+name: Story Scalability Acceptance
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/scripts/check_static.py'
+      - 'site-source/scripts/**'
+      - 'site-source/src/lib/content.ts'
+      - 'site-source/src/content/stories/**'
+      - '.github/workflows/story-scalability-acceptance.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  isolated-s030:
+    name: Isolated S030 Growth and Rejection Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.4
+      - name: Install locked dependencies
+        working-directory: site-source
+        run: bun install --frozen-lockfile
+      - name: Run S030 scenarios only in this ephemeral runner
+        run: python3 site-source/scripts/test-s030-scalability-ci.py

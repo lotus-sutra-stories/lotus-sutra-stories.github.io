@@ -2,12 +2,13 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
 import argparse,json,re,hashlib,sys
-ap=argparse.ArgumentParser();ap.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[2]);ap.add_argument('--expected-stories',type=int,choices=[19,29],default=29);a=ap.parse_args();root=a.root.resolve();source=root/'site-source';errors=[]
+ap=argparse.ArgumentParser();ap.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[2]);ap.add_argument('--expected-stories',type=int,default=None);a=ap.parse_args();root=a.root.resolve();source=root/'site-source';errors=[]
 def check(ok,label):
  print(('[PASS] ' if ok else '[FAIL] ')+label)
  if not ok:errors.append(label)
 metas=[json.loads(p.read_text()) for p in (source/'src/content/stories').glob('*/meta.json')];pub=[m for m in metas if m['status']=='published'];slugs={m['slug'] for m in pub}
-check(len(pub)==len(slugs)==a.expected_stories,'Exact source publication count')
+baseline_ids={f'S{i:03d}' for i in range(1,30)}
+check(len(pub)==len(slugs) and len(pub)>=29 and baseline_ids<={m['id'] for m in pub} and (a.expected_stories is None or len(pub)==a.expected_stories),f'Published corpus: {len(pub)} (at least 29; original IDs retained; optional exact pin)')
 check(len({m['id'] for m in metas})==len(metas) and len({m['slug'] for m in metas})==len(metas),'Unique IDs and slugs')
 for prefix in ['stories','en/stories']:check({p.parent.name for p in (root/prefix).glob('*/index.html')}==slugs,'Exact bilingual slug set: '+prefix)
 expected={'404.html','404/index.html','_not-found/index.html'}

@@ -40,8 +40,18 @@ en = {
     for p in (root / "en/stories").glob("*/index.html")
 }
 
-check(len(zh) == 29, f"Chinese stories: {len(zh)}/29")
-check(len(en) == 29, f"English stories: {len(en)}/29")
+# The source of truth is published metadata, not a fixed page count.
+import json
+story_root = root / "site-source/src/content/stories"
+metas = [json.loads(p.read_text(encoding="utf-8")) for p in story_root.glob("*/meta.json")]
+published = [m for m in metas if m.get("status") == "published"]
+published_slugs = {m["slug"] for m in published}
+original_ids = {f"S{i:03d}" for i in range(1, 30)}
+check(len(published) >= 29 and original_ids <= {m["id"] for m in published},
+      f"Published stories: {len(published)} (29-story release baseline preserved)")
+check(len(published_slugs) == len(published), "Published slugs unique")
+check(zh == published_slugs, f"Chinese story pages equal published slugs: {len(zh)}")
+check(en == published_slugs, f"English story pages equal published slugs: {len(en)}")
 check(zh == en, "Chinese and English story slugs match")
 
 # Check deployment asset references in generated HTML.
