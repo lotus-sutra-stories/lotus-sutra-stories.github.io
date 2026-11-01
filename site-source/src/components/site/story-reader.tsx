@@ -308,17 +308,17 @@ export function StoryReader({
 
           <Tabs value={mode} onValueChange={(v) => setMode(v as Mode)} className="w-full">
             <div className="mb-5">
-              <TabsList className="grid h-11 w-full grid-cols-2 sm:w-auto sm:grid-cols-4">
-                <TabsTrigger value="modern" className="text-xs sm:text-sm">
+              <TabsList className="grid h-auto w-full grid-cols-2 gap-1 sm:w-auto sm:grid-cols-4">
+                <TabsTrigger value="modern" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
                   {t.reader.modeModern}
                 </TabsTrigger>
-                <TabsTrigger value="original" className="text-xs sm:text-sm">
+                <TabsTrigger value="original" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
                   {t.reader.modeOriginal}
                 </TabsTrigger>
-                <TabsTrigger value="english" className="text-xs sm:text-sm">
+                <TabsTrigger value="english" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
                   {t.reader.modeEnglish}
                 </TabsTrigger>
-                <TabsTrigger value="parallel" className="text-xs sm:text-sm">
+                <TabsTrigger value="parallel" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
                   {t.reader.modeParallel}
                 </TabsTrigger>
               </TabsList>

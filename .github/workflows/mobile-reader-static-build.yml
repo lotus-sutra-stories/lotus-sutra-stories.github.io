@@ -1,0 +1,59 @@
+name: Mobile Reader Static Build
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "site-source/src/components/site/story-reader.tsx"
+      - ".github/workflows/mobile-reader-static-build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build Static Export
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.4
+
+      - name: Install locked dependencies
+        working-directory: site-source
+        run: bun install --frozen-lockfile
+
+      - name: Build static website
+        working-directory: site-source
+        run: bun run build:static
+
+      - name: Check expected export
+        run: |
+          test -f site-source/out/index.html
+          test -f site-source/out/sitemap.xml
+          test -d site-source/out/_next
+          test -f site-source/out/en/index.html
+          test -f site-source/out/stories/index.html
+          test -f site-source/out/en/stories/index.html
+          if find site-source/out -type f \( -name '.env' -o -name '.env.*' -o -name '.npmrc' -o -name 'id_rsa' -o -name 'id_ed25519' -o -name 'PRIVATE-REVIEW-ONLY.json' \) | grep -q .; then
+            echo "Forbidden file in export"
+            exit 1
+          fi
+
+      - name: Upload isolated export
+        uses: actions/upload-artifact@v4
+        with:
+          name: mobile-reader-static-export
+          path: site-source/out/
+          include-hidden-files: true
+          retention-days: 7
+          if-no-files-found: error
