@@ -158,8 +158,6 @@ export const UI = {
       disclaimer:
         "法華感應錄是一項獨立、非營利、免費開放的佛教文獻閱讀計畫，整理《法華經顯應錄》《法華經持驗記》等典籍所記載的受持、讀誦與感應故事。本網站尊重佛教信仰，並區分原典文字、白話譯註、英文翻譯與編輯者省思。古籍中的靈驗敘事依原書呈現，不代表已獲現代科學或歷史方法獨立證實，也不保證特定現世結果或往生結果。本站與所引用的佛教團體、資料庫及機構並無官方隸屬、授權或背書關係；各項原典轉錄、譯文及圖片依其適用授權與標示規範使用。",
       copyright: "各類內容依其適用授權及權利聲明使用；詳見「文獻來源與授權」。",
-      notDeployedNote:
-        "本網站已於 GitHub Pages 上線。自訂網域資訊請以站方公告為準。",
     },
     common: {
       story: "則故事",
@@ -329,8 +327,6 @@ export const UI = {
       disclaimer:
         "Lotus Sutra Stories is an independent, non-commercial, freely accessible Buddhist literature project presenting historical accounts of upholding and reciting the Lotus Sutra, particularly from the Fahua jing xianying lu and Fahua jing chiyan ji. We distinguish primary texts, modern Traditional Chinese explanations, English translations, and editorial reflections. Miraculous events are presented as accounts recorded in religious literature, not as independently established scientific or historical facts or guarantees of particular worldly or rebirth outcomes. This project is not officially affiliated with or endorsed by the religious organizations, archives, databases or institutions referenced. Third-party text transcriptions, translations and artwork remain subject to their applicable licences and attribution requirements.",
       copyright: "Materials are subject to their applicable licences and rights notices; see Sources & Licensing.",
-      notDeployedNote:
-        "This website is live on GitHub Pages. Please refer to the project owner’s announcements for custom-domain information.",
     },
     common: {
       story: "stories",

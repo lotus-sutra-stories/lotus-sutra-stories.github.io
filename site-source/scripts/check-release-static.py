@@ -46,7 +46,7 @@ for rel in actual:
   expected_languages={'zh-Hant':origin+'/'+base,'en':origin+'/en/'+base}
   if parser.canonical!=[origin+'/'+route] or parser.languages!=expected_languages or parser.lang!=('en' if en else 'zh-Hant'):seo.append(rel)
   note='This website is live on GitHub Pages. Please refer to the project owner’s announcements for custom-domain information.' if en else '本網站已於 GitHub Pages 上線。自訂網域資訊請以站方公告為準。'
-  if note not in ''.join(parser.footer):footers.append(rel)
+  if note in ''.join(parser.footer):footers.append(rel)
  for ref in parser.refs:
   u=urlsplit(ref)
   if u.scheme or u.netloc or not u.path:continue
@@ -58,7 +58,7 @@ export_manifest=json.loads((root/'.github/static-export-manifest.json').read_tex
 check(bool(export_manifest) and all(not Path(p).is_absolute() and '..' not in Path(p).parts and (root/p).is_file() and hashlib.sha256((root/p).read_bytes()).hexdigest()==sha for p,sha in export_manifest.items()),'Every exported file matches the committed SHA-256 manifest')
 check({p.relative_to(root).as_posix() for p in (root/'_next').rglob('*') if p.is_file()}=={p for p in export_manifest if p.startswith('_next/')},'Exact Next.js asset set, including files not directly referenced by HTML')
 check(not seo,'Self-canonical, reciprocal zh-Hant/en hreflang and HTML lang on all content routes')
-check(not footers,'Corrected deployment footer on all content routes')
+check(not footers,'No obsolete deployment notice on content routes')
 import xml.etree.ElementTree as ET
 urls={x.text for x in ET.parse(root/'sitemap.xml').findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
 expected_urls={origin+'/'+p[:-len('index.html')] for p in expected-{'404.html','404/index.html','_not-found/index.html'}}

@@ -4,11 +4,11 @@
 6:I[37457,["$4"],"default"]
 d:"/_next/static/chunks/04lihr__t9k2r.js"
 e:"/_next/static/chunks/0res65mkoc0od.js"
-f:"/_next/static/chunks/1enfg9hl-1yg_.js"
+f:"/_next/static/chunks/2d67mlx8lyll_.js"
 10:"/_next/static/chunks/3c_9dufnvkuj5.js"
 11:"/_next/static/chunks/0cvm_6jg0caz9.js"
 12:"/_next/static/chunks/3za4p1cvbn9mh.js"
-13:"/_next/static/chunks/0z3tsktvecy74.js"
+13:"/_next/static/chunks/1enfg9hl-1yg_.js"
 14:"/_next/static/chunks/0-ftj5hvsxeim.js"
 15:"/_next/static/chunks/3l6qrz8xqdl7l.js"
 16:I[85437,["$d","$e","$f","$10","$11","$12","$13","$14","$15"],"Image"]
@@ -26,7 +26,7 @@ f:"/_next/static/chunks/1enfg9hl-1yg_.js"
 a:[["children",{"s":{"n":"theme","t":"d","k":"peaceful-life","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
 2:[["children",{"s":"theme","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"現世安樂 · 法華感應錄"}],["$","meta","1",{"name":"description","content":"現世安樂是編輯選讀的主題，並非誦經必然產生現世利益的證明。收錄免難救護、疾病康復、護經感應、安心精進、吉祥瑞相、慈悲度生與悟入法華三昧的記載。"}],["$","meta","2",{"name":"application-name","content":"法華感應錄"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/theme/peaceful-life/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/theme/peaceful-life/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/theme/peaceful-life/"}],["$","link","6",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L23","7",{}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$9"}},"a":"$@25","u":"$@26","b":"H6wmeXwq7ruivfle5diew"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"現世安樂 · 法華感應錄"}],["$","meta","1",{"name":"description","content":"現世安樂是編輯選讀的主題，並非誦經必然產生現世利益的證明。收錄免難救護、疾病康復、護經感應、安心精進、吉祥瑞相、慈悲度生與悟入法華三昧的記載。"}],["$","meta","2",{"name":"application-name","content":"法華感應錄"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/theme/peaceful-life/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/theme/peaceful-life/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/theme/peaceful-life/"}],["$","link","6",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L23","7",{}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$9"}},"a":"$@25","u":"$@26","b":"TWitsCC2azXFpkOM1Yqba"}
 27:I[97367,["$4"],"OutletBoundary"]
 1a:["$","script","script-0",{"src":"/_next/static/chunks/0-ftj5hvsxeim.js","async":true}]
 1b:["$","script","script-1",{"src":"/_next/static/chunks/3l6qrz8xqdl7l.js","async":true}]
