@@ -8,7 +8,6 @@ import { localePath, pageAlternates } from "@/lib/routes";
 import { LotusMark } from "@/components/site/lotus-mark";
 import { PageHeader } from "@/components/site/section-heading";
 import { Reveal } from "@/components/site/reveal";
-import { Separator } from "@/components/ui/separator";
 
 export const metadata: Metadata = {
   title: UI.en.about.title,
@@ -68,8 +67,6 @@ export default function EnAboutPage() {
             <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
               {t.footer.disclaimer}
             </p>
-            <Separator className="w-24" />
-            <p className="text-xs text-muted-foreground">{t.footer.notDeployedNote}</p>
           </div>
         </Reveal>
       </div>

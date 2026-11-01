@@ -53,9 +53,6 @@ export function SiteFooter({ locale }: { locale: SiteLocale }) {
             <p className="text-xs leading-relaxed text-muted-foreground">
               {t.footer.disclaimer}
             </p>
-            <p className="text-xs leading-relaxed text-muted-foreground">
-              {t.footer.notDeployedNote}
-            </p>
           </div>
         </div>
 

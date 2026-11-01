@@ -4,13 +4,13 @@
 6:I[37457,["$4"],"default"]
 d:"/_next/static/chunks/04lihr__t9k2r.js"
 e:"/_next/static/chunks/0res65mkoc0od.js"
-f:"/_next/static/chunks/1enfg9hl-1yg_.js"
+f:"/_next/static/chunks/2d67mlx8lyll_.js"
 10:"/_next/static/chunks/3c_9dufnvkuj5.js"
 11:"/_next/static/chunks/0cvm_6jg0caz9.js"
 12:"/_next/static/chunks/3za4p1cvbn9mh.js"
-13:"/_next/static/chunks/0z3tsktvecy74.js"
-14:"/_next/static/chunks/1bcocl9na00vq.js"
-15:"/_next/static/chunks/11reodgisjoib.js"
+13:"/_next/static/chunks/1enfg9hl-1yg_.js"
+14:"/_next/static/chunks/0qroxo797vou_.js"
+15:"/_next/static/chunks/2rd1h_l9rer2i.js"
 16:"/_next/static/chunks/3l6qrz8xqdl7l.js"
 17:I[81949,["$d","$e","$f","$10","$11","$12","$13","$14","$15","$16"],"StoryReader"]
 1e:"ViewportBoundary"
@@ -43,10 +43,10 @@ c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$",
 a:[["children",{"s":{"n":"slug","t":"d","k":"zhu-ruyi-embroidered-lotus","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
 2:[["children",{"s":"stories","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","1",{"name":"description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","meta","2",{"name":"application-name","content":"法華感應錄"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/stories/zhu-ruyi-embroidered-lotus/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/stories/zhu-ruyi-embroidered-lotus/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/stories/zhu-ruyi-embroidered-lotus/"}],["$","meta","6",{"property":"og:title","content":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","7",{"property":"og:description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","11",{"name":"twitter:description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","link","12",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L23","13",{}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$9"}},"a":"$@25","u":"$@26","b":"H6wmeXwq7ruivfle5diew"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","1",{"name":"description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","meta","2",{"name":"application-name","content":"法華感應錄"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/stories/zhu-ruyi-embroidered-lotus/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/stories/zhu-ruyi-embroidered-lotus/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/stories/zhu-ruyi-embroidered-lotus/"}],["$","meta","6",{"property":"og:title","content":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","7",{"property":"og:description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"朱如一：十年繡經，持誦與念佛相伴 · 法華感應錄"}],["$","meta","11",{"name":"twitter:description","content":"朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。"}],["$","link","12",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L23","13",{}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$9"}},"a":"$@25","u":"$@26","b":"TWitsCC2azXFpkOM1Yqba"}
 27:I[97367,["$4"],"OutletBoundary"]
-19:["$","script","script-0",{"src":"/_next/static/chunks/1bcocl9na00vq.js","async":true}]
-1a:["$","script","script-1",{"src":"/_next/static/chunks/11reodgisjoib.js","async":true}]
+19:["$","script","script-0",{"src":"/_next/static/chunks/0qroxo797vou_.js","async":true}]
+1a:["$","script","script-1",{"src":"/_next/static/chunks/2rd1h_l9rer2i.js","async":true}]
 1b:["$","script","script-2",{"src":"/_next/static/chunks/3l6qrz8xqdl7l.js","async":true}]
 1c:["$","$L27",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
 26:true

@@ -4,11 +4,11 @@
 7:I[37457,["$5"],"default"]
 e:"/_next/static/chunks/04lihr__t9k2r.js"
 f:"/_next/static/chunks/0res65mkoc0od.js"
-10:"/_next/static/chunks/1enfg9hl-1yg_.js"
+10:"/_next/static/chunks/2d67mlx8lyll_.js"
 11:"/_next/static/chunks/3c_9dufnvkuj5.js"
 12:"/_next/static/chunks/0cvm_6jg0caz9.js"
 13:"/_next/static/chunks/3za4p1cvbn9mh.js"
-14:"/_next/static/chunks/0z3tsktvecy74.js"
+14:"/_next/static/chunks/1enfg9hl-1yg_.js"
 15:"/_next/static/chunks/0-ftj5hvsxeim.js"
 16:"/_next/static/chunks/3l6qrz8xqdl7l.js"
 17:I[85437,["$e","$f","$10","$11","$12","$13","$14","$15","$16"],"Image"]
@@ -27,7 +27,7 @@ b:[["children",{"s":{"n":"theme","t":"d","k":"pure-land","s":[]},"h":96,"d":{"r"
 3:[["children",{"s":"theme","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"en","h":48,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aspiring for Rebirth in the Pure Land · Lotus Sutra Stories"}],["$","meta","1",{"name":"description","content":"This gallery prioritises accounts in which the sources attest vows for, and claims about, Amitābha Buddha's Western Pure Land of Ultimate Bliss. A deathbed fragrance, light or west-facing death alone does not prove the source asserts rebirth in Sukhāvatī; such accounts are presented separately as related records."}],["$","meta","2",{"name":"application-name","content":"Lotus Sutra Stories"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/en/theme/pure-land/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/theme/pure-land/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/theme/pure-land/"}],["$","link","6",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L22","7",{}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$a"}},"a":"$@24","u":"$@25","b":"H6wmeXwq7ruivfle5diew"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aspiring for Rebirth in the Pure Land · Lotus Sutra Stories"}],["$","meta","1",{"name":"description","content":"This gallery prioritises accounts in which the sources attest vows for, and claims about, Amitābha Buddha's Western Pure Land of Ultimate Bliss. A deathbed fragrance, light or west-facing death alone does not prove the source asserts rebirth in Sukhāvatī; such accounts are presented separately as related records."}],["$","meta","2",{"name":"application-name","content":"Lotus Sutra Stories"}],["$","link","3",{"rel":"canonical","href":"https://lotus-sutra-stories.com/en/theme/pure-land/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://lotus-sutra-stories.com/theme/pure-land/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://lotus-sutra-stories.com/en/theme/pure-land/"}],["$","link","6",{"rel":"icon","href":"/lotus-favicon.png"}],["$","$L22","7",{}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$a"}},"a":"$@24","u":"$@25","b":"TWitsCC2azXFpkOM1Yqba"}
 26:I[97367,["$5"],"OutletBoundary"]
 19:["$","script","script-0",{"src":"/_next/static/chunks/0-ftj5hvsxeim.js","async":true}]
 1a:["$","script","script-1",{"src":"/_next/static/chunks/3l6qrz8xqdl7l.js","async":true}]
