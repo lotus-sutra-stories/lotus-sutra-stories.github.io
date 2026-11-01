@@ -1,12 +1,14 @@
-# 《法華感應錄》／Lotus Sutra Stories — 可擴充故事驗證里程碑（PR 待驗收稿）
+# 《法華感應錄》／Lotus Sutra Stories — 可擴充故事驗證里程碑（正式驗收紀錄）
 
-> **狀態：本機 29 篇回歸已通過；S030 完整 CI、PR 合併與部署尚待驗收。** 不得將待驗收項目標為 PASS。
+> **狀態：已完成正式整合與部署（2026-11-01）。** 既有 29 篇回歸驗證、GitHub Static Site CI、隔離 S030 擴充驗收工作流程及 Pages 部署均顯示成功；S030 僅為測試資料，未發布為真實故事。
 
 - 紀錄日期：2026-11-01
 - 正式網站：https://lotus-sutra-stories.com/
 - 儲存庫：https://github.com/lotus-sutra-stories/lotus-sutra-stories.github.io
 - 分支：`refactor/scalable-story-validation-20261101`
-- 建議 PR 標題：`refactor: make bilingual story validation scalable`
+- 合併 PR：[#14 — refactor: make bilingual story validation scalable](https://github.com/lotus-sutra-stories/lotus-sutra-stories.github.io/pull/14)
+- PR 原功能提交：`05a696c`
+- 合併日期：2026-11-01
 
 ## 一、問題與動機
 
@@ -43,9 +45,11 @@
 | `check-release-static.py --expected-stories 29` | **PASS** | 精確釘選檢查 |
 | S030 隔離資料存在及完整性（Python 資料檢查） | **PASS** | 30 份 metadata、30 個唯一 ID／slug，五份必要檔案 |
 | 四種 Python 資料模型情境 | **PASS** | 接受完整 30 篇；拒絕缺英文、重複 ID、原 S001 轉草稿 |
-| **正式 S030 TypeScript 內容與功能測試** | **待 GitHub Actions 驗收** | 輕量 Python 模型不能替代正式驗證器 |
-| **S030 Next.js 靜態匯出 79 HTML／Sitemap 76 URLs** | **待 GitHub Actions 驗收** | 不可預先宣稱 PASS |
-| **PR Required CI／Merge commit／Pages deployment** | **待完成** | 填入真實連結與成功證據後才能正式結案 |
+| **S030 雲端擴充驗收工作流程** | **PASS（GitHub Actions，27 秒）** | `Story Scalability Acceptance #1` 已成功；個別測試案例依執行日誌判讀，與獨立 Python 模型區分 |
+| **S030 預期靜態匯出 79 HTML／Sitemap 76 URLs** | **隸屬雲端驗收工作流程** | 以工作流程及其逐步日誌為細項證據；S030 僅存在於暫時 runner，正式網站仍為 77 HTML／74 URLs |
+| **Required Static Site CI #9** | **PASS（8 秒）** | PR #14 必要靜態網站驗證成功 |
+| **PR #14 合併** | **完成（2026-11-01）** | 已合併至受保護的 `main`；見 PR 紀錄 |
+| **GitHub Pages deployment #14** | **PASS（1 分鐘）** | `pages build and deployment` 在 `main` 成功；不表示 S030 已發布 |
 
 ## 五、Windows 測試中斷與恢復經驗
 
@@ -60,13 +64,19 @@
 5. 維護 Route、Sitemap、Canonical／hreflang、資源、Manifest、安全檔案、版權聲明及原始素材保護。
 6. 在受保護的 `main` 使用獨立 PR、Required CI、`Create a merge commit`，保留測試日誌和部署記錄。
 
-## 七、完成後補登
+## 七、正式 PR／CI／部署驗收紀錄（2026-11-01）
 
-- PR URL：待填
-- S030 Actions URL 與 PASS 截圖：待填
-- Required Static Site CI：待填
-- Merge commit：待填
-- Pages deployment：待填
-- 正式狀態：**待驗收，非已結案**
+- **PR #14：** https://github.com/lotus-sutra-stories/lotus-sutra-stories.github.io/pull/14 — 已合併至 `main`。
+- **功能提交：** `05a696c`；合併方式按照專案既定流程採用 `Create a merge commit`。本里程碑不臆測未核對的合併提交完整 SHA。
+- **Static Site CI #9：** `Validate Static Site`，PASS（8 秒），證據為 GitHub Actions 成功紀錄。
+- **Story Scalability Acceptance #1：** `Isolated S030 Growth and Rejection Tests`，PASS（27 秒），證據為 GitHub Actions 成功紀錄。
+- **Pages build and deployment #14：** `main` 分支 PASS（1 分鐘）；正式站仍保留 29 篇雙語故事。
+- **Actions 查驗入口：** https://github.com/lotus-sutra-stories/lotus-sutra-stories.github.io/actions
+- **證據解讀界線：** 上述綠色結果確認整個工作流程成功；單一 S030 情境、79 HTML／76 Sitemap URL 等細項應以該次工作流程的步驟日誌為準，不以摘要截圖替代逐項證據。
+- **正式狀態：** **完成驗收、合併與部署；里程碑紀錄已補登。**
+
+## 八、文件後補原則
+
+本次補登僅修訂既有里程碑 Markdown；不變更驗證器、正式故事、GitHub Actions、靜態產物、授權、網域或 SEO。文件須另走獨立分支、Pull Request、必要 CI 與 `Create a merge commit`，避免直接修改受保護的 `main`。
 
 > 補充：本文件保留本專案特有的 29 篇、41 見證、95 個來源檔案等歷史基準；其他網站必須建立自己的歷史發布基準，不能直接複製數值。
