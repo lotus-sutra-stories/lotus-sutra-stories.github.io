@@ -1,0 +1,72 @@
+{
+ "id": "S002",
+ "slug": "samantabhadra-exhortation",
+ "status": "published",
+ "title": {
+  "zh": "普賢菩薩勸發：滅後受持，得經四法",
+  "en": "Samantabhadra's Exhortation: Four Dharmas for Obtaining the Sutra"
+ },
+ "person": {
+  "zh": "普賢菩薩、釋迦牟尼佛",
+  "en": "Samantabhadra Bodhisattva; Śākyamuni Buddha"
+ },
+ "aliases": [
+  "普賢",
+  "遍吉",
+  "Samantabhadra"
+ ],
+ "period": {
+  "label": {
+   "zh": "佛經所述（靈山會上）",
+   "en": "Within the Lotus Sutra narrative (the assembly on Vulture Peak)"
+  },
+  "note": {
+   "zh": "本則為《法華經・普賢菩薩勸發品》所示聖典敘事，依《顯應錄》「古聖」門轉錄。",
+   "en": "A scriptural narrative from the final chapter (28) of the Lotus Sutra, transcribed from the \"Ancient Sages\" section of the Xianying lu."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "sutra-protection",
+  "peace-diligence"
+ ],
+ "practices": [
+  "recite",
+  "uphold"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": true,
+ "synopsis": {
+  "zh": "《法華經》終品：普賢菩薩自東方寶威德上王佛國來，請問如來滅後眾生云何能得是經。佛說成就四法當得是經；普賢復誓言於後五百歲守護受持者，乘六牙白象現身護念，若有忘失一句一偈，皆當教之。",
+  "en": "In the sutra's final chapter, Samantabhadra arrives from the eastern realm of the Buddha Jewel-Majesty-Virtue-Sovereign-King to ask how beings will obtain the sutra after the Tathāgata's passing. The Buddha names four dharmas; Samantabhadra then vows to protect upholders of the sutra in the later evil age, manifesting mounted on his six-tusked white elephant, and teaching back any line or verse they forget."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "普賢菩薩勸發流通",
+   "anchorStart": "X78n1540_p0025a24",
+   "anchorEnd": "X78n1540_p0025a24",
+   "locator": "冊78, 頁0025a24–a24",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0025a24",
+     "text": "爾時，普賢菩薩從東方來，而白佛言：我於寶威德上王佛國，遙聞此娑婆世界說法華經，與大菩薩眾共來聽受，惟願世尊當為說之。若人於如來滅後，云何能得是法華經？佛告普賢：若人成就四法，於如來滅後，當得是法華經：一者為諸佛護念，二者植眾德本，三者入正定聚，四者發救一切眾生之心。如是成就四法，必得是經。普賢白佛言：於後五百歲濁惡世中，其有受持是經典者，我當守護，除其衰患。是人若行若立，讀誦此經，我時乘六牙白象，與大菩薩眾而自現身，供養守護，亦為供養法華經故。其人若於法華經有所妄失，一句一偈，我當教之。文句釋曰：佛舉四法，冠⟨gaijiCB00746⟩一經，法華之重演，佛慧之再宣，遠來勸發，其義如此。南屏頌曰：徧吉尋聲得得來，巨靈纔闢絕纖埃。象王何事頻移步，為愛芬陀滿砌苔。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "S018",
+ "slug": "fache-healed-leper",
+ "status": "published",
+ "title": {
+  "zh": "法徹法師：句句授經，癩者膚故",
+  "en": "Master Fache: Teaching the Sutra Line by Line, the Leper's Skin Made Whole"
+ },
+ "person": {
+  "zh": "法徹",
+  "en": "Fache"
+ },
+ "aliases": [
+  "法徹",
+  "徹法師",
+  "Fache"
+ ],
+ "period": {
+  "label": {
+   "zh": "唐（蒲州）",
+   "en": "Tang dynasty (Puzhou)"
+  },
+  "note": {
+   "zh": "絳州人，居蒲州孤山；《持驗記》列於唐朝。",
+   "en": "A Jiangzhou man who settled on the lone hill of Puzhou; the Chiyan ji files him under the Tang."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "recovery",
+  "compassion"
+ ],
+ "practices": [
+  "recite",
+  "lecture"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "唐法徹，絳州人，通《法華經》，常以此經誘化。居蒲州孤山剏立蘭若；地本高險無泉，積歲崇道之後，清泉迸出，刺史房仁裕以「陷泉」題寺額。道中遇一癩者，引至山中，鑿穴給食，令誦法華；癩者素不識字，又復頑鈍，師句句教授，終不辭倦。誦至第六卷，癩病漸愈；經誦完時，眉鬚復生，皮膚如故。",
+  "en": "Fache of the Tang, a Jiangzhou man, had mastered the Lotus Sutra and used it constantly to draw and convert people. He settled on the lone hill of Puzhou and founded a hermitage; the site was high and dry without a spring, but after years of devoted practice clear water burst forth, and Prefect Fang Renyu inscribed the plaque 'Sunken Spring' for the monastery. On the road he met a leper, led him into the hills, dug him a cave, fed him, and set him to reciting the Lotus Sutra. The man could not read and was dull of mind besides; the master taught him line upon line and never once wearied. By the sixth fascicle the disease was visibly receding; when the sutra was complete, eyebrows and beard had grown again, and his skin was as it had been."
+ },
+ "witnesses": [
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "唐蒲州釋法徹",
+   "anchorStart": "X78n1541_p0076b01",
+   "anchorEnd": "X78n1541_p0076b01",
+   "locator": "冊78, 頁0076b01–b01",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0076b01",
+     "text": "絳州人。少勤苦，通法華經，常以是經誘化一切。邑有孤山，師依而結業，剏立蘭若。地本高險，向絕泉源。師積歲崇道，一旦清泉迸出。刺史房仁裕申請寺額，即以陷泉名之。甞於道中遇一癩者，引至山中，為鑿穴給食，令誦法華。癩者素不識字，加又頑鈍，句句授之，終不辭倦。至第六卷，癩病漸愈。經完，眉鬚復生，膚已如故。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

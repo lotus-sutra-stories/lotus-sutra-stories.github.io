@@ -1,0 +1,87 @@
+{
+ "id": "S013",
+ "slug": "huiqing-storm-rescue",
+ "status": "published",
+ "title": {
+  "zh": "慧慶法師：風濤之中，覺有扶挽",
+  "en": "Master Huiqing: In the Storm, Hands That Seemed to Hold the Boat"
+ },
+ "person": {
+  "zh": "慧慶",
+  "en": "Huiqing"
+ },
+ "aliases": [
+  "慧慶",
+  "慶法師",
+  "Huiqing"
+ ],
+ "period": {
+  "label": {
+   "zh": "劉宋元嘉年間（廬山）",
+   "en": "Yuanjia era, Liu Song (Mount Lu)"
+  },
+  "note": {
+   "zh": "廣陵人，居廬山寺。",
+   "en": "A native of Guangling who lived at the monastery on Mount Lu."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "rescue",
+  "auspicious"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "劉宋慧慶，廣陵人，居廬山，學通經律，戒行精嚴。夜誦法華，每聞暗中彈指讚歎之聲。元嘉中渡江遇風，舟將覆沒，惟誦經不輟；覺舟在波濤中如有人牽挽，倐忽抵岸。自是誦習至老不倦。原書夾注出《法苑珠林》。",
+  "en": "Huiqing of the Liu Song, a Guangling man living on Mount Lu, had mastered both sutras and Vinaya and kept the precepts with rigour. Reciting the Lotus Sutra at night, he would hear fingers snapping in the dark in applause. Crossing the river in the Yuanjia era his boat met a gale and was on the point of capsizing; he only recited on without break, and felt the boat borne through the waves as if hands were pulling it — in a moment it reached the bank. From then on he recited without tiring into old age. The source cites the Fayuan zhulin."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "廬山慶法師",
+   "anchorStart": "X78n1540_p0031c06",
+   "anchorEnd": "X78n1540_p0031c06",
+   "locator": "冊78, 頁0031c06–c06",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0031c06",
+     "text": "僧慧慶，廣陵人。宋元嘉中，居廬山。學通經律，精嚴戒行。遇夜誦法華、維摩等經，每聞暗中有彈指讚歎之聲。甞於小雷遇風，船將沈，慶一志誦經，以求安濟。船在浪中，覺有扶挽之者，倐忽到岸。自是誦習，至老不倦。〔注：法苑珠林〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "宋釋慧慶",
+   "anchorStart": "X78n1541_p0067a24",
+   "anchorEnd": "X78n1541_p0067a24",
+   "locator": "冊78, 頁0067a24–a24",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0067a24",
+     "text": "竺姓，廣陵人，止廬山寺。學通經律，清潔有戒行。誦法華、思益等經，每夜諷持，聞闇中有彈指讚歎之聲。元嘉中，渡江遇風，舟將覆，師惟誦經不徹，覺舟在波濤中，迎飈截流，如有人牽之，倐忽抵岸。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

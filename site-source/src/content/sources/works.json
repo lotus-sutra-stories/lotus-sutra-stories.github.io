@@ -1,0 +1,116 @@
+[
+ {
+  "code": "X1540",
+  "titleZh": "法華經顯應錄",
+  "titleEn": "Fahua jing xianying lu (Records of Evident Responses to the Lotus Sutra)",
+  "compilerZh": "宋・宗曉編",
+  "compilerEn": "Compiled by Zongxiao (Song dynasty)",
+  "dynastyZh": "南宋",
+  "dynastyEn": "Southern Song",
+  "cbetaId": "CBETA X78, No. 1540",
+  "volumes": 2,
+  "structureNote": {
+   "zh": "全書二卷，依人物門類編次：卷首載序文與目次；卷一起「古聖」（佛經所示七事）、「高僧」；卷二續「高僧」，次「高尼」「信男」「信女」，末附刻序。原書目次頁題作「法華經驗應錄目次」，與目錄題名「顯應錄」一字互倒，今依原書如實註記。",
+   "en": "Two fascicles arranged by category of person: prefaced by a foreword and table of contents; juan 1 opens with \"Ancient Sages\" (seven narratives from the sutra itself) and \"Eminent Monks\"; juan 2 continues the monks, then \"Eminent Nuns\", \"Laymen\", \"Laywomen\", closing with a colophon. The internal table of contents is titled Fahua jing yan-ying lu (with two characters transposed); this bibliographic variant is recorded as printed."
+  },
+  "sections": [
+   {
+    "nameZh": "古聖",
+    "nameEn": "Ancient Sages (narratives within the Lotus Sutra)",
+    "count": "凡七事",
+    "juan": 1
+   },
+   {
+    "nameZh": "高僧",
+    "nameEn": "Eminent Monks",
+    "count": "凡一百七十三人",
+    "juan": "1-2"
+   },
+   {
+    "nameZh": "高尼",
+    "nameEn": "Eminent Nuns",
+    "count": "凡一十三人",
+    "juan": 2
+   },
+   {
+    "nameZh": "信男",
+    "nameEn": "Laymen",
+    "count": "凡三十二人",
+    "juan": 2
+   },
+   {
+    "nameZh": "信女",
+    "nameEn": "Laywomen",
+    "count": "凡一十四人",
+    "juan": 2
+   }
+  ],
+  "sourceUrls": [
+   {
+    "label": "CBETA 数位版（CBETA Online）",
+    "url": "https://cbetaonline.dila.edu.tw/zh/X1540_001"
+   },
+   {
+    "label": "deerpark.app 閱讀版",
+    "url": "https://deerpark.app/cbeta/X1540/1"
+   },
+   {
+    "label": "CBETA TEI XML（GitHub）",
+    "url": "https://github.com/cbeta-org/xml-p5/blob/master/X/X78/X78n1540.xml"
+   }
+  ],
+  "licenseNote": {
+   "zh": "原典文字轉錄自 CBETA「卍新纂大日本續藏經」數位版（X78, No. 1540）。CBETA 宣告該電子佛典「Available for non-commercial use when distributed with this header intact」（非商業用途、保留標頭完整時可用）。本站為非營利計畫，轉錄時保留其標點與罕用字形，並逐條標明卷頁行出處。底本《卍續藏》本身屬public domain古籍。",
+   "en": "Original passages are transcribed from the CBETA digital edition of the Manji Shinsan Dainihon Zokuzōkyō (X78, No. 1540). CBETA states the e-text is \"Available for non-commercial use when distributed with this header intact\"; this non-commercial project preserves its punctuation and rare glyphs and cites volume/page/line for every passage. The underlying printing is a public-domain classical edition."
+  }
+ },
+ {
+  "code": "X1541",
+  "titleZh": "法華經持驗記",
+  "titleEn": "Fahua jing chiyan ji (Records of Verified Experiences of Upholding the Lotus Sutra)",
+  "compilerZh": "清・周克復纂",
+  "compilerEn": "Compiled by Zhou Kefu (Qing dynasty)",
+  "dynastyZh": "清代",
+  "dynastyEn": "Qing",
+  "cbetaId": "CBETA X78, No. 1541",
+  "volumes": 2,
+  "structureNote": {
+   "zh": "全書二卷，依朝代先後編次：卷首載自序與勸流通引；正文自六朝（晉）起，歷宋、齊、梁、陳、北魏、北齊、北周、隋、唐（卷一），至吳越、五代、宋、元、明（卷二），末附清代數則。與《顯應錄》門類編次互異，二書同題材者，本站分別保留原典見證。",
+   "en": "Two fascicles arranged chronologically by dynasty: prefaced by the compiler's foreword and an exhortation to circulate the collection; the main text runs from the Six Dynasties (Jin) through Song, Qi, Liang, Chen, Northern Wei, Northern Qi, Northern Zhou, Sui and Tang (juan 1), to Wuyue, the Five Dynasties, Song, Yuan and Ming (juan 2). Its arrangement differs from the categorical order of the Xianying lu; where both works carry the same narrative, this site preserves both primary witnesses separately."
+  },
+  "sections": [
+   {
+    "nameZh": "卷一：六朝至唐",
+    "nameEn": "Juan 1: Six Dynasties through Tang",
+    "juan": 1
+   },
+   {
+    "nameZh": "卷二：吳越至明",
+    "nameEn": "Juan 2: Wuyue through Ming",
+    "juan": 2
+   }
+  ],
+  "sourceUrls": [
+   {
+    "label": "CBETA 数位版（CBETA Online）",
+    "url": "https://cbetaonline.dila.edu.tw/zh/X1541_001"
+   },
+   {
+    "label": "deerpark.app 閱讀版",
+    "url": "https://deerpark.app/cbeta/X1541/1"
+   },
+   {
+    "label": "CBETA TEI XML（GitHub）",
+    "url": "https://github.com/cbeta-org/xml-p5/blob/master/X/X78/X78n1541.xml"
+   },
+   {
+    "label": "維基文庫（簡體轉錄本，僅供參）",
+    "url": "https://zh.wikisource.org/wiki/%E6%B3%95%E8%8F%AF%E7%B6%93%E6%8C%81%E9%A9%97%E8%A8%98"
+   }
+  ],
+  "licenseNote": {
+   "zh": "原典文字轉錄自 CBETA「卍新纂大日本續藏經」數位版（X78, No. 1541），授權同上。維基文庫另有簡體字轉錄本；因簡轉繁易生歧義，本站不以之作為底本，僅列為參考連結。",
+   "en": "Original passages are transcribed from the CBETA digital edition (X78, No. 1541), under the same terms as above. A Simplified-Chinese transcription also exists on Chinese Wikisource; because Simplified-to-Traditional conversion is lossy, this site does not use it as a source text and lists it only as a reference link."
+  }
+ }
+]

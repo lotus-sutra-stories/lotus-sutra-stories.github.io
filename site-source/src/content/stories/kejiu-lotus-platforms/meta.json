@@ -1,0 +1,72 @@
+{
+ "id": "S008",
+ "slug": "kejiu-lotus-platforms",
+ "status": "published",
+ "title": {
+  "zh": "可久法師：蓮臺題名，五年後驗",
+  "en": "Master Kejiu: Names on the Lotus Platforms, Verified Five Years On"
+ },
+ "person": {
+  "zh": "可久",
+  "en": "Kejiu"
+ },
+ "aliases": [
+  "可久",
+  "久法華師",
+  "Kejiu"
+ ],
+ "period": {
+  "label": {
+   "zh": "北宋（？–1093後）",
+   "en": "Northern Song (d. after 1093)"
+  },
+  "note": {
+   "zh": "元祐八年（1093）坐化復甦；與蘇軾交遊。",
+   "en": "Died and revived in the eighth Yuanyou year (1093); a close friend of Su Shi."
+  }
+ },
+ "themes": [
+  "pure-land"
+ ],
+ "secondaryTypes": [
+  "welcome",
+  "deathbed",
+  "perseverance"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "interpreted",
+ "reportedDestination": "sukhavati",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "四明開元寺可久，常誦《法華經》，時稱「久法華師」，與蘇軾交好。元祐八年無疾坐化，三日復甦，自述神遊淨土，所見與《十六觀經》相同；七寶池蓮臺皆書當生者姓名——紫金臺題勳公（已生），金臺題孫十二郎與可久，銀臺題徐道姑。後五年徐道姑亡，異香滿室；又七年孫十二郎卒，天樂迎空——皆如其言。",
+  "en": "Kejiu of Kaiyuan Monastery in Siming constantly recited the Lotus Sutra and was known as 'Master Jiu of the Lotus'. A close friend of Su Shi, he died without illness in 1093 and revived after three days, reporting that he had travelled in spirit to the Pure Land: what he saw matched the Contemplation Sutra exactly, and on the lotus platforms of the jeweled pool were written the names of those yet to be born — a purple-gold platform for the monk Xun (already born), golden platforms for Sun the Twelfth and for Kejiu himself, a silver platform for the nun Xu. Five years on, the nun died with fragrance filling her room; seven years on, Sun died to celestial music — each just as he had said."
+ },
+ "witnesses": [
+  {
+   "work": "X1541",
+   "juan": 2,
+   "heading": "宋釋可久",
+   "anchorStart": "X78n1541_p0083c04",
+   "anchorEnd": "X78n1541_p0083c04",
+   "locator": "冊78, 頁0083c04–c04",
+   "url": "https://deerpark.app/cbeta/X1541/2",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0083c04",
+     "text": "居四明開元寺，常誦蓮經，時號久法華師。與蘇文忠公軾遊最稔。常居西湖祥符，蕭然一室，清介守貧。當九曲觀燈，公去，從者獨行，入師室，了無燈火，但聞瞻蔔餘香。公仰歎留詩，有不把琉璃閒照佛，始知無盡本非燈之句。元祐八年，無疾坐化，三日復甦，云：吾已神遊淨土，見彼土相，與十六觀經所說莊嚴一同。七寶池中所有蓮臺，皆書當生者姓名。一紫金臺，書成都府廣教院勳公，已生其中。又一金臺，書明州孫十二郎，一書可久。又一銀臺，書明州徐道姑。言訖，復化去。後五年，徐道故亡，異香滿室。又七年，孫十二郎卒。時聞天樂迎空，皆如師所云。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

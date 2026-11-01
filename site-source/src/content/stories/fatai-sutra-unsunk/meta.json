@@ -1,0 +1,88 @@
+{
+ "id": "S010",
+ "slug": "fatai-sutra-unsunk",
+ "status": "published",
+ "title": {
+  "zh": "法泰法師：墮水之經，宛無濕處",
+  "en": "Master Fatai: The Sutra That Fell into the River and Did Not Get Wet"
+ },
+ "person": {
+  "zh": "法泰",
+  "en": "Fatai"
+ },
+ "aliases": [
+  "法泰",
+  "泰法師",
+  "Fatai"
+ ],
+ "period": {
+  "label": {
+   "zh": "隋（眉州）",
+   "en": "Sui dynasty (Meizhou)"
+  },
+  "note": {
+   "zh": "《持驗記》列於隋朝。",
+   "en": "The Chiyan ji files him under the Sui."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "sutra-protection",
+  "auspicious"
+ ],
+ "practices": [
+  "recite",
+  "copy"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "隋眉州法泰，常誦法華，手寫一部。送往益州裝潢途中，經卷墮笮橋水中，求之不得；師悲泣巡岸，忽望小洲上有一襆，取之即經——草木擎之，宛無濕處。後以檀香為軸裝竟還寺，每夜異香滿室。彪法師夜至其誦經所，見諸人眾胡跪合掌，流汗而退。",
+  "en": "Fatai of Meizhou in Sui times constantly recited the Lotus Sutra and copied it out by hand. Sent to Yizhou for mounting, the scroll fell from the Zao bridge into the water and could not be found; he wept and searched along the bank — then saw a bundle on a small islet. It was the sutra, held up by grass and branches, without a single wet spot. Mounted with sandalwood rollers and returned, it filled the room each night with uncanny fragrance. Master Biao, visiting his recitation hall at night, saw a crowd kneeling with palms joined — and withdrew in a sweat."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "眉州泰法師",
+   "anchorStart": "X78n1540_p0037b03",
+   "anchorEnd": "X78n1540_p0037b03",
+   "locator": "冊78, 頁0037b03–b03",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0037b03",
+     "text": "大隋有僧法泰，姓呂氏。初披戴為道士，已十餘年。忽厭彼宗，迴心大覺。乃往眉州鼻山，投師落䰂。持誦蓮經，尋即通利。仍親寫是經一部，數有靈異。因辯錢兩千，將向益州裝潢。擔至筰橋，橋斷墮水。僕雖得濟，乃失衣籠。泰大呼曰：錢物尤閒，何忍其經？有人漉得者，當贈兩千。時有一人，沒水求之，但得錢物。泰更巡望求覓，忽睹州中有一襆子，試取之，乃經也。草木所擎，宛無濕處。遂往裝潢，洎還寺供奉。每聞異香凝結，精進倍加。夜課一部，以為常式。寺有彪法師講授，午夜看讀。嫌泰誦經之煩，欲勉低聲。及往，忽見泰之門前，神人無數，皆跪膝合爪，愧汗而退。〔注：續高僧傳〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "隋釋法泰",
+   "anchorStart": "X78n1541_p0074a07",
+   "anchorEnd": "X78n1541_p0074a07",
+   "locator": "冊78, 頁0074a07–a07",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0074a07",
+     "text": "眉州隆山人，常誦法華，手寫經一部，數有靈瑞。向益州裝潢，俄墮笮橋水中，求之不得。師悲泣，巡岸上下，忽望小洲上有一襆，命取之，乃經也。草木擎之，宛無濕處。師不勝歡喜，即至成都裝竟，以檀香為軸，備極莊嚴，還供本寺。每夜異香滿室，師勤持誦，夜必一遍。時有彪法師在彼寺講經，夕至師誦經所，見有諸人眾胡跪合掌，彪流汗而退。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

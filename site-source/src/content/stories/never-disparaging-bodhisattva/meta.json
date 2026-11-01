@@ -1,0 +1,71 @@
+{
+ "id": "S001",
+ "slug": "never-disparaging-bodhisattva",
+ "status": "published",
+ "title": {
+  "zh": "常不輕菩薩：不輕一切，皆當作佛",
+  "en": "The Bodhisattva Never Disparaging: \"I Dare Not Disparage You\""
+ },
+ "person": {
+  "zh": "常不輕比丘（釋迦牟尼佛前身）",
+  "en": "The monk Never Disparaging (a previous incarnation of Śākyamuni Buddha)"
+ },
+ "aliases": [
+  "常不輕",
+  "不輕菩薩",
+  "Sadāparibhūta",
+  "Never Disparaging"
+ ],
+ "period": {
+  "label": {
+   "zh": "佛經所述往古（威音王佛像法中）",
+   "en": "Remote past, within the Lotus Sutra narrative (during the semblance-dharma of Buddha Bhīṣmagarjitasvara)"
+  },
+  "note": {
+   "zh": "本則為《法華經・常不輕菩薩品》所示聖典敘事，非後世史傳感應記載；依《顯應錄》「古聖」門轉錄。",
+   "en": "This is a scriptural narrative from the Lotus Sutra (Chapter 20), not a later historical account; it is transcribed here from the \"Ancient Sages\" section of the Xianying lu."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "compassion"
+ ],
+ "practices": [
+  "uphold"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": true,
+ "synopsis": {
+  "zh": "《法華經》所述：像法之中有一比丘，見人必拜、口稱「不敢輕於汝等，汝等皆當作佛」，雖遭瞋恚打罵亦不改其行；臨終聞虛空中威音王佛說法華經，得六根清淨。佛言：是比丘即我身是。",
+  "en": "As told in the Lotus Sutra: in the semblance-dharma age a monk bowed to everyone he met, saying \"I dare not disparage you, for you shall all become Buddhas.\" Though mocked and stoned, he never altered his practice; at the end of his life he heard the Lotus Sutra proclaimed in open space and attained purity of the six senses. The Buddha identifies that monk as his own former self."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "不輕菩薩流通法華",
+   "anchorStart": "X78n1540_p0024b11",
+   "anchorEnd": "X78n1540_p0024b11",
+   "locator": "冊78, 頁0024b11–b11",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0024b11",
+     "text": "乃往古昔，最初威音王如來像法之中，增上慢比丘，有大勢力。爾時有一比丘，名常不輕。是比丘凡見四眾，皆悉禮拜讚嘆，而作是言：我深敬汝等，不敢輕慢。汝等皆行菩薩道，當得作佛。而是比丘，不專讀誦經典，但行禮拜。四眾之中，有生瞋恚心不淨者，惡口罵詈言：是無智比丘，從何所來？我等不用如是虗妄授記。眾人或以杖木瓦石而打擲之，避走遠住，猶高聲唱言：我不敢輕於汝等，汝等皆當作佛。以其常作是語，故號之為常不輕。是比丘臨欲終時，於虗空中，具聞威音王佛先所說法華經，悉能受持，即得六根清淨，廣為人說。是法華經時，不輕者，釋迦文是。若我宿世不受持此經，為他人說者，不能疾得菩提法華文句。問曰：釋迦出世，踟躕不說。不輕一見，造次而言，何也？答：本已有善，釋迦以小而將護之。本未有善，不輕以大而強毒之。南屏清辯蘊齊頌曰：寶劒未施藏玉匣，七星寒影已熒熒。殷勤說向傍人道，內有龍泉不可輕。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

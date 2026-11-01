@@ -1,0 +1,86 @@
+{
+ "id": "S003",
+ "slug": "kumarajiva-translator",
+ "status": "published",
+ "title": {
+  "zh": "鳩摩羅什：譯出妙法，舌根不壞",
+  "en": "Kumārajīva: The Translator Whose Tongue Did Not Burn"
+ },
+ "person": {
+  "zh": "鳩摩羅什",
+  "en": "Kumārajīva"
+ },
+ "aliases": [
+  "羅什",
+  "什法師",
+  "童壽",
+  "Kumārajīva",
+  "Kumarajiva"
+ ],
+ "period": {
+  "label": {
+   "zh": "東晉・後秦（344–413）",
+   "en": "Eastern Jin / Later Qin (344–413)"
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "sutra-protection",
+  "auspicious"
+ ],
+ "practices": [
+  "translate",
+  "lecture"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "龜茲僧鳩摩羅什應姚興之請入長安，於逍遙園草堂寺譯出《妙法蓮華經》。臨終誓言：若所譯無謬，焚身之後舌不焦爛。闍維之後，舌果然不壞。本站所依兩部感應錄，皆以此事開篇。",
+  "en": "The Kuchean monk Kumārajīva, invited to Chang'an by Yao Xing, translated the Lotus Sutra at Caotang Monastery. Before dying he vowed that if his translations were without error, his tongue would remain unburnt after cremation — and so it proved. Both response-compilations used by this site open with him."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "姚秦三藏什法師",
+   "anchorStart": "X78n1540_p0025c15",
+   "anchorEnd": "X78n1540_p0025c15",
+   "locator": "冊78, 頁0025c15–c15",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0025c15",
+     "text": "法師鳩摩羅什，秦翻童壽，龜茲國人。七歲出家，日誦千偈。其母甞擕至月支國，見一羅漢曰：此沙彌至三十五，若不破戒，當大洪佛教，度無數人。戒若不全，止才明法師而已。母唯其言。一日謂曰：方等深教，應大闡真丹，唯爾之力，但於爾自身無益耳。什曰：大士之道，利彼亡軀。若使大法流傳，能洗蒙俗，雖身當鑪鑊無恨矣。時符堅據關中，太史奏云：有德星現外國分野，當有大智人入輔中國。堅曰：朕聞西域有羅什，將非是耶？即遣呂光率兵伐龜茲。光既獲什，迴至凉州，聞符堅為姚萇所害，乃據關外，僭號後凉。萇崩，子興襲位。廟庭俄生連理樹，逍遙園蔥變為茝，以為祥瑞。遂伐呂隆，迎什入長安，待以國師之禮。興於逍遙園引諸沙門聽什講說，什辯通華夏，覽舊經與胡本乖謬，以弘始八年於草堂寺與僧䂮等八百餘人對舊經考校，譯此玅法蓮華經一部七卷。興曰：法師聰明超悟，天下無二，可使無嗣乎？遂以妓女十人逼之。自是淨行者恥聞其事，師至講說，必先告曰：譬如臭泥生蓮華，但采蓮華，勿眎臭泥。後忽感疾，即語眾云：因法相遇，殊未盡心，無何緣謝，所譯法華等經幸共流布，若所譯無謬，願焚軀後舌不焦爛。言訖而終。至於闍維，舌果不灰。委見梁僧傳及晉書南山感通傳。韋天曰：什公聰明，善解大乘，彼自七佛已來傳譯，得法王之遺寄也。俗以陷戒為言，此不須議，什位三賢，非悠悠者也。"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "晉釋鳩摩羅什",
+   "anchorStart": "X78n1541_p0065a17",
+   "anchorEnd": "X78n1541_p0065a17",
+   "locator": "冊78, 頁0065a17–a17",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0065a17",
+     "text": "華言童壽，天竺人也。七歲出家，日誦千偈。年十二，至沙勒國，說法之暇，專務方等，於是聲滿葱左。龜茲王迎還國，請開方等經奧，師為推辨諸法皆空無我，分別陰界假名非實，聽者莫不感悟。苻秦時，太史奏有星見外國分埜，當有大智入輔中國，即遣使求之。後秦弘始三年十二月，迎師至長安，止逍遙園，譯妙法蓮華經，義皆圓通，眾心愜伏。續出小品、金剛、般若等經及諸論，凡三百餘卷。師雅好大乘，志存敷廣，將終，語眾曰：願所宣譯，後世咸共弘通。今於眾前發誠實誓，若所傳無謬，當使焚身之後，舌不焦爛。晉義熙五年，卒於長安。依外國法，闍維薪滅形化，惟舌不灰。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

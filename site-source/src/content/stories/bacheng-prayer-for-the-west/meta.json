@@ -1,0 +1,91 @@
+{
+ "id": "S004",
+ "slug": "bacheng-prayer-for-the-west",
+ "status": "published",
+ "title": {
+  "zh": "跋澄法師：專祈極樂，西方來迎",
+  "en": "Master Bacheng: Sixty Years of Recitation, a Single Prayer for the West"
+ },
+ "person": {
+  "zh": "跋澄（原書作䟷澄）",
+  "en": "Bacheng (printed in the source with a variant glyph of 跋)"
+ },
+ "aliases": [
+  "跋澄",
+  "䟷澄",
+  "沙門澄法師",
+  "Bachen",
+  "Bacheng"
+ ],
+ "period": {
+  "label": {
+   "zh": "東晉（長安）",
+   "en": "Eastern Jin (Chang'an)"
+  },
+  "note": {
+   "zh": "《持驗記》將本條列於晉朝；主人公生卒不詳。",
+   "en": "The Chiyan ji files this account under the Jin dynasty; the subject's dates are unknown."
+  }
+ },
+ "themes": [
+  "pure-land"
+ ],
+ "secondaryTypes": [
+  "vow",
+  "perseverance",
+  "welcome",
+  "deathbed"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "interpreted",
+ "reportedDestination": "sukhavati",
+ "aspirationForSukhavati": true,
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "跋澄二十歲出家，根器魯鈍，立志誓誦《蓮經》以求往生西方，日記一行或半偈，至八十歲方誦通一部。天帝遣朱衣神人來迎，他以「專祈極樂」辭之；後夢七寶大塔與西方寶城階道來迎，囑弟子營齋，問眾見千佛否、聞香氣否，面西而化。",
+  "en": "Bacheng became a monk at twenty with dull faculties, vowing to recite the Lotus Sutra for rebirth in the West. He memorised a line a day, sometimes half a verse, completing the sutra only at eighty. When a heavenly envoy came to invite him to Trāyastriṃśā he declined — his prayer was solely for Ultimate Bliss. He later dreamt of a jeweled pagoda and the welcoming stairway of the Western jeweled city, arranged a communal offering, asked his disciples whether they saw the thousand Buddhas and smelled the uncanny fragrance, then passed away facing west."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "沙門澄法師",
+   "anchorStart": "X78n1540_p0034a09",
+   "anchorEnd": "X78n1540_p0034a09",
+   "locator": "冊78, 頁0034a09–a09",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0034a09",
+     "text": "䟦澄年二十，出家為僧，根器魯鈍，罔然無所措。立志誓誦蓮經，以求西邁。日記一行，或得半偈。如是勤苦，至八十歲，方通一部。一日加坐入定，忽見朱衣神人，手持請疏曰：天帝奉迎大德䟦澄。師曰：生來愚鈍，隨分誦持，專祈極樂。忉利雖是勝處，非所願也。神人辭去。又一時夢七寶大塔，身居第五層，望見七寶城階，無有涯際。外有二金剛，執杵兩立；數十青衣，手執白拂，以拂階道。澄問，答曰：此是西方寶城，階道來迎。䟦澄夢覺，即語弟子曰：汝將吾衣鉢，營大眾齋。又言：汝等此時見千佛否？答云：不見。又曰：覺非常香氣否？答云：咸聞。言已向西，奄然而化。〔注：靈瑞集〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "晉長安釋䟦澄",
+   "anchorStart": "X78n1541_p0065b14",
+   "anchorEnd": "X78n1541_p0065b14",
+   "locator": "冊78, 頁0065b14–b14",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0065b14",
+     "text": "年二十出家，根器魯鈍，誓誦法華，日記一行或半偈，如是勤苦，至八十歲方通一部。一日，忽見朱衣神人持疏云：天帝奉迎大德。師曰：生來誦持，專祈極樂，忉利雖勝，非所願爾。神乃辭去。又一夕，夢七寶大塔，身居第五層，望見七寶城階無有涯際，有二金剛神執杵而立，青衣數十手執白拂拂階道，云：是西方寶城來迎。䟦澄夢覺，即命以衣鉢營大眾齋，問曰：汝等此時見千佛否？眾云：不見。又問：覺非常香氣否？眾云：咸聞。言已，向西寂然而化。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "S015",
+ "slug": "fazhi-listening-pheasant",
+ "status": "published",
+ "title": {
+  "zh": "法志與聽經雉：七載聽經，腋下雉毳",
+  "en": "Fazhi and the Listening Pheasant: Seven Years of Listening, Three Feathers Under the Arm"
+ },
+ "person": {
+  "zh": "法志（及聽經雉／曇翼）",
+  "en": "Fazhi (and the listening pheasant / the future Tanyi)"
+ },
+ "aliases": [
+  "法志",
+  "志禪師",
+  "聽經雉",
+  "Fazhi"
+ ],
+ "period": {
+  "label": {
+   "zh": "東晉（餘杭）",
+   "en": "Eastern Jin (Yuhang)"
+  },
+  "note": {
+   "zh": "與曇翼（S016）為同一傳承故事的前後兩段。",
+   "en": "The first half of the same lineage story as Tanyi (S016)."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "compassion"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "東晉法志，結菴餘杭山誦《法華經》。有雉巢於菴側，每聞誦聲即翔集座傍，若聽受狀，七年如一日。一日憔悴，師撫之曰：汝雖羽族，能聽經者，脫業軀必生人道。明旦遽殞。夜夢童子再拜：我即雉也，因聽經得脫羽類，今生山前王氏家為男子，右腋猶有雉毳可驗。詰旦往問，果然。後此子七歲出家，十六落髮，以腋有毳，命名曇翼，授《蓮經》不遺一字。志師歸寂，翼為此山第二祖。",
+  "en": "In the Eastern Jin, Fazhi built a hut in the Yuhang hills and recited the Lotus Sutra. A pheasant nested beside the hut; whenever it heard the recitation it flew down and stood by his seat as though listening — so for seven years. One day it drooped, and he stroked it: 'Though you are of the feathered kind, you listen to the sutra; shed this karmic body and you shall be born among humans.' Next dawn it died. That night a boy bowed twice in a dream: 'I am that pheasant; by listening to the sutra I escaped the feathered kind and am now born a boy in the Wang family before the hill; three down-feathers remain under my right arm as proof.' At daybreak Fazhi went to ask — it was so. The boy ordained at seven, took the tonsure at sixteen; because of the feathers he was named Tanyi ('Wing'), and received the Lotus without missing a word. When Fazhi died, Tanyi became the second patriarch of that mountain."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "餘杭志禪師",
+   "anchorStart": "X78n1540_p0033a12",
+   "anchorEnd": "X78n1540_p0033a12",
+   "locator": "冊78, 頁0033a12–a12",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0033a12",
+     "text": "東晉時，有僧法志，結菴餘杭山，誦法華經，朝夕不懈。有雉巢于菴之側，每聞誦經聲，則翔集于座傍，若侍立聽受狀，如是者七年。一日憔悴，師撫之曰：汝雖羽族，而能聽經，苟脫業軀，必生人道。明旦遽殞，師即瘞之。及夜，方假寐，夢童子再拜曰：我即雉也，因聽師誦經，得脫羽類。今生于山前王氏家為男子，右腋猶有雉毳，見可驗也。僧詰朝至其家，問之果然。王氏一日設齋，志方踵門，此子遽然曰：我和尚來也。舉眾異之，擕以示志，志撫之曰：此我雉兒耳。遂解衣周視其腋下，果有雉毳三莖。至七歲，宜聽出家，父母唯之。至時入山，十六落髮，以腋有毳，命名曇翼，授與蓮經，不遺一字。志師歸寂，翼即為此山第二祖矣。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

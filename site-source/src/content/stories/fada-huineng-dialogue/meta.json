@@ -1,0 +1,72 @@
+{
+ "id": "S011",
+ "slug": "fada-huineng-dialogue",
+ "status": "published",
+ "title": {
+  "zh": "法達禪人：心悟轉法華",
+  "en": "The Monk Fada: 'When the Mind Awakens, It Turns the Lotus Sutra'"
+ },
+ "person": {
+  "zh": "法達、六祖惠能",
+  "en": "Fada; the Sixth Patriarch Huineng"
+ },
+ "aliases": [
+  "法達",
+  "Fada",
+  "惠能",
+  "Huineng"
+ ],
+ "period": {
+  "label": {
+   "zh": "唐（曹溪）",
+   "en": "Tang dynasty (Caoxi)"
+  },
+  "note": {
+   "zh": "事涉六祖惠能（638–713）；《持驗記》列於唐朝。",
+   "en": "Concerns the Sixth Patriarch Huineng; the Chiyan ji files it under the Tang."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "insight",
+  "peace-diligence"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "洪州法達，七歲出家，長誦《法華》。後禮曹溪六祖，祖問誦經以何為宗。祖令展誦至譬喻品而止，為說「一大事因緣」即佛之知見，「即汝自心，更無別物」，并授「心迷法華轉，心悟轉法華」之偈。法達悲泣而悟，自陳「經誦三千部，曹溪一句亡」。",
+  "en": "Fada of Hongzhou left home at seven and spent his life reciting the Lotus Sutra. Visiting the Sixth Patriarch at Caoxi, he was asked what the sutra's purport was; told to unfold and read it, he had barely begun the Parable chapter when the Patriarch stopped him, expounded the 'one great matter' as the Buddha's insight — 'your own mind itself, nothing else besides' — and gave the verse 'when the mind is deluded it is turned by the Lotus Sutra; when the mind awakens, it turns the Lotus Sutra'. Fada wept, awakened, and confessed: 'Three thousand recitations of the sutra — undone by one sentence at Caoxi.'"
+ },
+ "witnesses": [
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "唐韶州南華寺釋法達",
+   "anchorStart": "X78n1541_p0076b08",
+   "anchorEnd": "X78n1541_p0076b08",
+   "locator": "冊78, 頁0076b08–b08",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0076b08",
+     "text": "洪州人。七歲出家，長誦法華。後詣曹溪禮六祖，祖問：汝誦此經，以何為宗？師云：但依文念，豈知宗趣。祖令取經展誦，師即高聲誦至譬喻品。祖曰：止。此經以因緣出世為宗。經云：以一大事因緣出現於世。一大事者，佛之知見也。若能於相離相，於空離空，一念心開，是為開佛知見。汝當信佛知見者，即汝自心，更無別物。莫向外求，與佛無二。乃說偈曰：心迷法華轉，心悟轉法華。誦經久不明，與義作讎家。無念念即正，有念念成邪。有無俱不計，長御白牛車。師聞不覺悲泣，亦以偈讚，有經誦三千部，曹溪一句亡之語。從此頓悟玄旨。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

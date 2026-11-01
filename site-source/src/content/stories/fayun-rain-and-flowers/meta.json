@@ -1,0 +1,89 @@
+{
+ "id": "S019",
+ "slug": "fayun-rain-and-flowers",
+ "status": "published",
+ "title": {
+  "zh": "法雲法師：講經雨華，燈明佛時",
+  "en": "Master Fayun: Flowers Rain on the Lecture; He Taught This Sutra in the Days of Dipankara Buddha"
+ },
+ "person": {
+  "zh": "法雲",
+  "en": "Fayun"
+ },
+ "aliases": [
+  "法雲",
+  "雲法師",
+  "雲大師",
+  "Fayun"
+ ],
+ "period": {
+  "label": {
+   "zh": "南朝梁（467–529）",
+   "en": "Liang dynasty (467–529)"
+  },
+  "note": {
+   "zh": "光宅寺法雲，與僧旻、智藏並稱梁代三大法師。",
+   "en": "Fayun of Guangzhai Monastery, one of the three great Liang-dynasty masters together with Sengmin and Zhizang."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "auspicious",
+  "sutra-protection"
+ ],
+ "practices": [
+  "lecture",
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "梁法雲，陽羨周氏，生時雲氣滿室，七歲出家。年三十講《法華》《淨名》，機辯風生，學徒輻湊；梁武帝敕主光宅寺。曾於幽巖獨講是經，列石為徒，折松作拂。講此經時，天華如飛雪滿空而下，延入堂內，升空不墜，講訖乃去。誌公請解「師子吼」，聞講彈指稱善。武帝亢陽，誌公請雲講經致雨，講至「其澤普洽」，天即大霈膏澤。儀同袁昂家有供養僧發願如雲之慧解，夢僧告知：雲法師燈明佛時已講此經——那可卒敵。原書夾注出《續高僧傳》。",
+  "en": "Fayun of the Liang, of the Zhou family of Yangxian, was born with cloud-vapour filling the room, and ordained at seven. At thirty he lectured on the Lotus and the Vimalakīrti with dialectic like a rising wind, and students flocked to him; Emperor Wu of Liang placed him over Guangzhai Monastery. Alone in a secluded cliff he once lectured the sutra to rows of stones, breaking a pine twig for a whisk. Lecturing it, celestial flowers fell like flying snow filling the sky, drifted into the hall, hung in the air without falling, and departed only when the lecture ended. The master Zhi Gong begged him to expound the 'lion's roar', and snapped his fingers in praise at the telling. When the emperor prayed for rain during a drought, Zhi Gong advised summoning Fayun; lecturing, at the phrase 'its moisture pervades all' the sky poured down its bounty. At Yuan Ang's home a resident monk vowed to attain wisdom like Fayun's, and dreamt of a monk who told him: Master Fayun was already lecturing this sutra in the days of Dipankara Buddha — how could you hope to rival him at a stroke? The source cites the Xu Gaoseng zhuan."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "金陵雲法師",
+   "anchorStart": "X78n1540_p0034a21",
+   "anchorEnd": "X78n1540_p0034a21",
+   "locator": "冊78, 頁0034a21–a21",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0034a21",
+     "text": "法師陽羨人，俗周氏。其母始生，見雲氣滿室，因以雲為小字。七歲出家，立名法雲，儁朗英秀，卓絕於時。亮法師見而歎曰：吾之神明，殊不及雲，此子必棟梁大法矣。師年三十，講法華、淨名，機辯風生，學徒輻湊。梁武敬之，勑主光宅寺。雲自息慈，即雅尚法華，研精累思。曾往幽巖，獨講是經，列石為徒，折松作拂，自唱自導，兼通難問，而又文疏稠疊，前後繁映。甞於一寺，講敷此經，忽感天華，狀如飛雪，滿空而下，延于堂內，升空不墜，講訖乃去。時誌公道超方外，或來雲所曰：吾欲解師子吼，請師為說。師即陞猊剖析，誌彈指曰：善哉微玅矣。武帝一日以天亢陽，問誌曰：何計得雨？誌曰：雲能致雨，當請雲師講經。雲講法華，至其澤普洽，天即大霈膏澤。儀同袁昂曰：家有常供養僧發願，願如雲之慧解。忽夢一僧曰：雲法師燈明佛時，已講此經，那可卒敵也。〔注：續高僧傳〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "梁釋法雲",
+   "anchorStart": "X78n1541_p0069b01",
+   "anchorEnd": "X78n1541_p0069b01",
+   "locator": "冊78, 頁0069b01–b01",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0069b01",
+     "text": "陽羨周氏，七歲出家，儁朗卓絕。誦妙法華，研精累思。年三十，於妙音寺開講法華、淨名，機辨風生，學者輻輳。又甞於光宅寺講法華經，忽感天華滿空，下如飛雪。時誌公道超方外，每來雲所，輒停信宿，稱為大林法師。甞言：吾欲解獅子吼。師即陞座剖析，誌彈指讚曰：善哉，微妙矣！儀同袁昂家有甞供養僧，發願欲如師慧解。夜忽夢一僧云：雲法師燈明佛時已講此經，那得卒及？"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}
