@@ -308,17 +308,29 @@ export function StoryReader({
 
           <Tabs value={mode} onValueChange={(v) => setMode(v as Mode)} className="w-full">
             <div className="mb-5">
-              <TabsList className="grid h-auto w-full grid-cols-2 gap-1 sm:w-auto sm:grid-cols-4">
-                <TabsTrigger value="modern" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
+              <TabsList className="grid h-auto w-full grid-cols-2 gap-2 rounded-xl bg-[#F8F5EF] p-1.5 sm:w-auto sm:grid-cols-4 dark:bg-muted">
+                <TabsTrigger
+                  value="modern"
+                  className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal rounded-lg border border-[#DDD4C8] bg-[#FFFCF8] px-2 py-2 text-center text-xs leading-snug text-[#382C28] shadow-sm data-[state=active]:border-[#D8B49F] data-[state=active]:bg-[#F3DFD0] data-[state=active]:font-semibold sm:h-12 sm:min-h-12 sm:text-sm dark:border-border dark:bg-background dark:text-foreground dark:data-[state=active]:border-primary/50 dark:data-[state=active]:bg-accent dark:data-[state=active]:text-accent-foreground"
+                >
                   {t.reader.modeModern}
                 </TabsTrigger>
-                <TabsTrigger value="original" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
+                <TabsTrigger
+                  value="original"
+                  className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal rounded-lg border border-[#DDD4C8] bg-[#FFFCF8] px-2 py-2 text-center text-xs leading-snug text-[#382C28] shadow-sm data-[state=active]:border-[#D8B49F] data-[state=active]:bg-[#F3DFD0] data-[state=active]:font-semibold sm:h-12 sm:min-h-12 sm:text-sm dark:border-border dark:bg-background dark:text-foreground dark:data-[state=active]:border-primary/50 dark:data-[state=active]:bg-accent dark:data-[state=active]:text-accent-foreground"
+                >
                   {t.reader.modeOriginal}
                 </TabsTrigger>
-                <TabsTrigger value="english" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
+                <TabsTrigger
+                  value="english"
+                  className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal rounded-lg border border-[#DDD4C8] bg-[#FFFCF8] px-2 py-2 text-center text-xs leading-snug text-[#382C28] shadow-sm data-[state=active]:border-[#D8B49F] data-[state=active]:bg-[#F3DFD0] data-[state=active]:font-semibold sm:h-12 sm:min-h-12 sm:text-sm dark:border-border dark:bg-background dark:text-foreground dark:data-[state=active]:border-primary/50 dark:data-[state=active]:bg-accent dark:data-[state=active]:text-accent-foreground"
+                >
                   {t.reader.modeEnglish}
                 </TabsTrigger>
-                <TabsTrigger value="parallel" className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal px-3 py-2 text-center text-xs leading-snug sm:h-12 sm:min-h-12 sm:text-sm">
+                <TabsTrigger
+                  value="parallel"
+                  className="h-[52px] min-h-[52px] w-full min-w-0 whitespace-normal rounded-lg border border-[#DDD4C8] bg-[#FFFCF8] px-2 py-2 text-center text-xs leading-snug text-[#382C28] shadow-sm data-[state=active]:border-[#D8B49F] data-[state=active]:bg-[#F3DFD0] data-[state=active]:font-semibold sm:h-12 sm:min-h-12 sm:text-sm dark:border-border dark:bg-background dark:text-foreground dark:data-[state=active]:border-primary/50 dark:data-[state=active]:bg-accent dark:data-[state=active]:text-accent-foreground"
+                >
                   {t.reader.modeParallel}
                 </TabsTrigger>
               </TabsList>
