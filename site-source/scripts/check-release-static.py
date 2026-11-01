@@ -38,7 +38,7 @@ class Refs(HTMLParser):
  def handle_data(self,data):
   if self.in_footer:self.footer.append(data)
 missing=[]
-seo=[];footers=[];origin='https://lotus-sutra-stories.github.io'
+seo=[];footers=[];origin='https://lotus-sutra-stories.com'
 for rel in actual:
  f=root/rel;parser=Refs();parser.feed(f.read_text())
  if rel not in {'404.html','404/index.html','_not-found/index.html'}:

@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://lotus-sutra-stories.github.io/sitemap.xml
+Sitemap: https://lotus-sutra-stories.com/sitemap.xml
