@@ -13,9 +13,9 @@ export const SITE = {
   taglineZh: "受持法華的故事，現世安樂的啟發，往生淨土的願心。",
   taglineEn:
     "Stories of upholding the Lotus Sutra, inspiring peace in this life and aspirations for the Pure Land.",
-  /** Planned (not yet live) GitHub Pages origin; do not present as live. */
-  pagesOrigin: "https://lotus-sutra-stories.github.io",
-  /** Reported available but NOT purchased; never emitted into metadata. */
+  /** Verified production origin for GitHub Pages. */
+  pagesOrigin: "https://lotus-sutra-stories.com",
+  /** Registered custom domain; retained for compatibility. */
   prospectiveDomain: "lotus-sutra-stories.com",
   locales: ["zh", "en"] as const,
   defaultLocale: "zh" as const,
