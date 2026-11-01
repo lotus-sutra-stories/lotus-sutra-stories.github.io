@@ -55,8 +55,9 @@ const published = getPublishedStoryMetas();
 check("structural-validation", true, `${all.length} story metas parsed, 0 structural errors`);
 check(
   "corpus-size",
-  published.length === 29,
-  `published stories: ${published.length} (expected 29)`,
+  published.length >= 29 && Array.from({ length: 29 }, (_, i) =>
+    `S${String(i + 1).padStart(3, "0")}`).every((id) => published.some((m) => m.id === id)),
+  `published stories: ${published.length} (minimum 29, original S001..S029 retained)`,
 );
 check(
   "id-uniqueness-stability",
@@ -87,7 +88,7 @@ for (const m of published) {
   }
 }
 check("file-completeness", missingFiles.length === 0 && emptyFiles.length === 0,
-  missingFiles.length ? `missing: ${missingFiles.join(", ")}` : emptyFiles.length ? `suspiciously small: ${emptyFiles.join(", ")}` : "all 29 stories carry zh/en/notes/original/meta files");
+  missingFiles.length ? `missing: ${missingFiles.join(", ")}` : emptyFiles.length ? `suspiciously small: ${emptyFiles.join(", ")}` : `all ${published.length} published stories carry zh/en/notes/original/meta files`);
 
 const texts = new Map<string, ReturnType<typeof getStoryTexts>>();
 let zhShort = 0, enShort = 0;
@@ -180,8 +181,10 @@ const plFail: string[] = [];
 for (const m of pl) {
   if (m.rebirthClaim === "not-stated" || m.rebirthClaim === "disputed") plFail.push(`${m.id} pure-land theme but rebirthClaim=${m.rebirthClaim}`);
 }
-check("pure-land-classification", pl.length === 8 && plFail.length === 0,
-  `8 pure-land stories: ${pl.map((m) => `${m.id}→${m.reportedDestination}${m.aspirationForSukhavati === true ? "/aspiration" : m.aspirationForSukhavati === "uncertain" ? "/uncertain" : ""}`).join(", ")}; 灌頂(S009) correctly tusita-contrast`);
+check("pure-land-classification", pl.length >= 8 && plFail.length === 0 &&
+    ["S004", "S005", "S006", "S007", "S008", "S009", "S028", "S029"].every(
+      (id) => pl.some((m) => m.id === id)),
+  `${pl.length} pure-land stories: ${pl.map((m) => `${m.id}→${m.reportedDestination}${m.aspirationForSukhavati === true ? "/aspiration" : m.aspirationForSukhavati === "uncertain" ? "/uncertain" : ""}`).join(", ")}; 灌頂(S009) correctly tusita-contrast`);
 
 // ------------------------------------------- 6. cross-references & known defects
 function noteText(id: string): string {
@@ -217,12 +220,12 @@ check(
 // ------------------------------------------------ 7. story-of-the-day rotation
 const rotation = new Set<string>();
 const base = Date.UTC(2026, 0, 1);
-for (let d = 0; d < 29; d++) {
+for (let d = 0; d < published.length; d++) {
   const s = getRotatingStory(new Date(base + d * 86_400_000));
   if (s) rotation.add(s.id);
 }
-check("story-of-day-rotation", rotation.size === 29,
-  `29 consecutive days cover ${rotation.size}/29 distinct stories (deterministic UTC-day rotation)`);
+check("story-of-day-rotation", rotation.size === published.length,
+  `${published.length} consecutive days cover ${rotation.size}/${published.length} distinct stories (deterministic UTC-day rotation)`);
 
 // ------------------------------------------------------------------ works/taxonomy
 const works = getWorks();
