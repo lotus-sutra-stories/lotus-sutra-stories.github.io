@@ -1,0 +1,87 @@
+{
+ "id": "S014",
+ "slug": "zhicong-tigers-ferry",
+ "status": "published",
+ "title": {
+  "zh": "智聰法師：四虎隨渡，端坐而終",
+  "en": "Master Zhicong: Four Tigers Cross with Him; He Passes Away Seated"
+ },
+ "person": {
+  "zh": "智聰",
+  "en": "Zhicong"
+ },
+ "aliases": [
+  "智聰",
+  "聰法師",
+  "Zhicong"
+ ],
+ "period": {
+  "label": {
+   "zh": "隋唐之際（533–631？）",
+   "en": "Sui–Tang transition (533–631?)"
+  },
+  "note": {
+   "zh": "貞觀中年九十九而卒；上推生年約梁中大通年間。原書未記生年。",
+   "en": "Died at ninety-nine in the Zhenguan era; the birth year is our arithmetic, not the source's."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "rescue",
+  "peace-diligence"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "隋亡之際，智聰思歸無計，隱江浦荻中誦《法華經》，七日不飢，四虎馴遶。老翁以小艇來請渡江，四虎蹲伏不去，師問「將無渡耶」，虎遂起，同載抵南岸，艇與老人忽不見。後止棲霞寺，貞觀中九十九歲端坐而逝，虎哀吼而去。",
+  "en": "When Sui collapsed, Zhicong could find no way home and hid in the reeds by the river, reciting the Lotus Sutra — seven days without hunger, four tigers tame about him. An old man came with a small boat to ferry him across; the tigers crouched and would not leave. 'Are you coming too?' he asked, and they rose, crossed with him to the south bank, where boat and old man vanished. He settled at Qixia Monastery; in the Zhenguan era, ninety-nine years old, he died seated upright, and the tigers went away mourning."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "揚州聰法師",
+   "anchorStart": "X78n1540_p0039b07",
+   "anchorEnd": "X78n1540_p0039b07",
+   "locator": "冊78, 頁0039b07–b07",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0039b07",
+     "text": "僧智聰，住揚州白馬寺，專習三論。尋渡江，住安樂寺。值大隋國崩，思歸無計，隱江荻中，誦法華經，七日不飢。恒有四虎馴遶，聰曰：吾已十日不食，命在呼吸間，卿可食之。虎作人言曰：造天立地，無有此理。忽見一老翁掖下，挾一小船來，曰：師欲渡江。即上船，其四虎見而淚出。聰曰：持危拔難，正在今日。即同四虎利涉南岸，船及老人忽然不見。聰領四虎止西霞塔西，經行禪誦，誓不寢臥。安眾八十餘人，若有凶事，虎來大吼，由此警覺。至貞觀中，年九十九，於佛降生日，熏鑪徧禮聖僧，還歸靜室，端坐而化。〔注：續高僧傳〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "唐攝山棲霞寺釋智聰",
+   "anchorStart": "X78n1541_p0075b15",
+   "anchorEnd": "X78n1541_p0075b15",
+   "locator": "冊78, 頁0075b15–b15",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0075b15",
+     "text": "住揚州白馬寺，專習三論。尋渡江，住安樂寺。值隋亡，思歸無計，隱江浦荻中，誦法華經，七日不饑。恒有四虎馴遶，忽見老翁挾一小艇來，曰：請師渡江。聰登艇，四虎蹲伏不肯去。師曰：將無渡耶？虎遂起，即同利涉抵南岸，艇及老人忽不見。師携四虎止棲霞寺西。貞觀中，年九十九，端坐逝，虎哀吼而去。"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

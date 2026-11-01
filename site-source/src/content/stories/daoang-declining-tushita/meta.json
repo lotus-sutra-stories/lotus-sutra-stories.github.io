@@ -1,0 +1,72 @@
+{
+ "id": "S007",
+ "slug": "daoang-declining-tushita",
+ "status": "published",
+ "title": {
+  "zh": "道昂法師：辭兜率，願西方",
+  "en": "Master Daoang: Declining Tuṣita, Choosing the West"
+ },
+ "person": {
+  "zh": "道昂",
+  "en": "Daoang"
+ },
+ "aliases": [
+  "道昂",
+  "昂法師",
+  "Daoang"
+ ],
+ "period": {
+  "label": {
+   "zh": "隋末唐初（相州）",
+   "en": "Sui–early Tang (Xiangzhou)"
+  },
+  "note": {
+   "zh": "《顯應錄》未繫年；原書列於唐前諸僧間。",
+   "en": "The Xianying lu gives no dates; it places him among the monks before the Tang."
+  }
+ },
+ "themes": [
+  "pure-land"
+ ],
+ "secondaryTypes": [
+  "vow",
+  "welcome",
+  "deathbed"
+ ],
+ "practices": [
+  "lecture"
+ ],
+ "rebirthClaim": "interpreted",
+ "reportedDestination": "sukhavati",
+ "aspirationForSukhavati": true,
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "相州開元寺道昂法師，常講《法華經》。一日講次，眾聖幢幡音樂從空而下，告云兜率天特來相迎。昂曰：天道是生死根本，從來不願；我所願者，西方而已。言訖不現。須臾西方音樂嘹亮，師囑眾「勤念彌陀，同生淨國」，香鑪墜手，於高座瞑目而終。原書夾注出《往生略傳》。",
+  "en": "Master Daoang of Kaiyuan Monastery in Xiangzhou regularly lectured on the Lotus Sutra. Mid-lecture one day, a host of sages with banners and music descended from the sky, announcing that the Tuṣita heaven had come especially to welcome him. 'Heaven is the root of birth-and-death,' he replied; 'I have never aspired to it — my aspiration is the West alone.' They vanished. Presently music resounded from the west; he charged the assembly to 'recite Amitābha diligently and be born together in the pure land', the incense burner dropped from his hand, and he closed his eyes on the high seat. The source cites the Wangsheng lüezhuan."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 2,
+   "heading": "相州昂法師",
+   "anchorStart": "X78n1540_p0046b15",
+   "anchorEnd": "X78n1540_p0046b15",
+   "locator": "冊78, 頁0046b15–b15",
+   "url": "https://deerpark.app/cbeta/X1540/2",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0046b15",
+     "text": "相州有法師道昂，止開元寺，常講法華經。一日講次，忽見眾聖幢幡音樂從空而下，告云：兜率陀天特來相迎。昂曰：天道生死根本，從來不願，所願者西方耳。言訖不現。須臾，即聞西方音樂嘹亮，異於前聞。師忻然曰：時既至矣，吾當行焉。諸人好住，勤念彌陀，同生淨國。言已，香鑪墜手，即於高座瞑目而終。四眾深嘉異之。〔注：往生略傳〕"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

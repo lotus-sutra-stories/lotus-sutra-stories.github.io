@@ -1,0 +1,74 @@
+[
+ {
+  "code": "rescue",
+  "theme": "peaceful-life",
+  "zh": "免難與救護",
+  "en": "Rescue and Protection"
+ },
+ {
+  "code": "recovery",
+  "theme": "peaceful-life",
+  "zh": "疾病與康復記載",
+  "en": "Accounts of Illness and Recovery"
+ },
+ {
+  "code": "sutra-protection",
+  "theme": "peaceful-life",
+  "zh": "護經與菩薩感應",
+  "en": "Sutra Protection and Bodhisattva Encounters"
+ },
+ {
+  "code": "peace-diligence",
+  "theme": "peaceful-life",
+  "zh": "安心與精進",
+  "en": "Peace of Mind and Diligent Practice"
+ },
+ {
+  "code": "auspicious",
+  "theme": "peaceful-life",
+  "zh": "吉祥與瑞相",
+  "en": "Auspicious Signs"
+ },
+ {
+  "code": "compassion",
+  "theme": "peaceful-life",
+  "zh": "慈悲與度生",
+  "en": "Compassion and Liberation"
+ },
+ {
+  "code": "insight",
+  "theme": "peaceful-life",
+  "zh": "悟入與法華三昧",
+  "en": "Insight and Lotus Samādhi"
+ },
+ {
+  "code": "vow",
+  "theme": "pure-land",
+  "zh": "發願生西方",
+  "en": "Aspiration for the Western Pure Land"
+ },
+ {
+  "code": "perseverance",
+  "theme": "pure-land",
+  "zh": "精進與信願",
+  "en": "Perseverance and Vows"
+ },
+ {
+  "code": "welcome",
+  "theme": "pure-land",
+  "zh": "佛菩薩來迎記載",
+  "en": "Reported Welcoming Visions"
+ },
+ {
+  "code": "lay",
+  "theme": "pure-land",
+  "zh": "在家信眾",
+  "en": "Lay Practitioners"
+ },
+ {
+  "code": "deathbed",
+  "theme": "pure-land",
+  "zh": "臨終瑞相",
+  "en": "Deathbed Auspicious Signs"
+ }
+]

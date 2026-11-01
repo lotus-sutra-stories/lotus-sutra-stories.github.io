@@ -1,0 +1,71 @@
+{
+ "id": "S012",
+ "slug": "tannuwuji-pumen-protection",
+ "status": "published",
+ "title": {
+  "zh": "曇無竭：誦普門品，獅鷲卻獸",
+  "en": "Tanwujie: Reciting the Universal Gate Chapter, Lion and Vulture Scatter the Beasts"
+ },
+ "person": {
+  "zh": "曇無竭",
+  "en": "Tanwujie (Dharmodgata)"
+ },
+ "aliases": [
+  "曇無竭",
+  "竭法師",
+  "Tanwujie",
+  "Dharmodgata"
+ ],
+ "period": {
+  "label": {
+   "zh": "劉宋元嘉初（西域求法僧）",
+   "en": "Early Yuanjia era, Liu Song (a pilgrim to the Western Regions)"
+  },
+  "note": {
+   "zh": "與《高僧傳》所載西行求法僧曇無竭（宋元嘉年間出走西域）時代相合。",
+   "en": "Agrees in period with the pilgrim Tanwujie recorded in the Gaoseng zhuan who left for the Western Regions in the Yuanjia era."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "rescue"
+ ],
+ "practices": [
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "劉宋元嘉初，黃龍沙門曇無竭精勤苦行，常誦《法華經・普門品》，與徒屬二十五人西行天竺，備經險難。至舍衛，路逢群象，竭虔心誦念，感師子從林中出，象群奔退；復有野牛群吼而至，竭勵念如初，忽有大鷲飛來，牛群驚散無蹤，因得免脫。原書夾注出《法苑珠林》。",
+  "en": "In the early Yuanjia era of the Liu Song, the monk Tanwujie of Huanglong, austere and diligent, constantly recited the Universal Gate chapter of the Lotus Sutra. With twenty-five followers he travelled west to India through every peril. Near Srāvastī the party met a herd of elephants; Tanwujie recited with devotion, and a lion charged from the forest, putting the elephants to flight. Next a roaring herd of wild buffaloes bore down; he recited with redoubled vigour, and a great vulture swooped down, scattering the buffaloes without a trace — and so the party escaped. The source cites the Fayuan zhulin."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "三藏竭法師",
+   "anchorStart": "X78n1540_p0035a16",
+   "anchorEnd": "X78n1540_p0035a16",
+   "locator": "冊78, 頁0035a16–a16",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0035a16",
+     "text": "宋元嘉初，有黃龍沙門曇無竭者，精勤苦行，常誦法華普門品，與徒屬二十五人西游天竺，備經險難，竭志彌堅。既達舍衛，路逢群象，竭䖍心誦念，遂感師子從林逃出，象即奔退。復有野牛群吼而至，將欲加害，竭勵念如初，忽有大鷲飛來，驚散無蹤，因得免脫。〔注：法苑\n珠林〕"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

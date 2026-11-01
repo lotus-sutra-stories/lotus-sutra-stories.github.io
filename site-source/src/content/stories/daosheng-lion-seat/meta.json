@@ -1,0 +1,90 @@
+{
+ "id": "S017",
+ "slug": "daosheng-lion-seat",
+ "status": "published",
+ "title": {
+  "zh": "道生法師：頓悟成佛，踞師子座",
+  "en": "Master Daosheng: Sudden Awakening, Dying Seated upon the Lion Seat"
+ },
+ "person": {
+  "zh": "竺道生",
+  "en": "Zhu Daosheng"
+ },
+ "aliases": [
+  "道生",
+  "生法師",
+  "生公",
+  "Daosheng"
+ ],
+ "period": {
+  "label": {
+   "zh": "東晉（？–434）",
+   "en": "Eastern Jin (d. 434)"
+  },
+  "note": {
+   "zh": "鉅鹿人，從竺法汰出家，俗姓魏（原書未載姓，從師姓竺）。",
+   "en": "Of Julu; ordained under Zhu Fatai and took his master's surname, Zhu."
+  }
+ },
+ "themes": [
+  "peaceful-life"
+ ],
+ "secondaryTypes": [
+  "insight",
+  "auspicious",
+  "compassion"
+ ],
+ "practices": [
+  "lecture",
+  "recite"
+ ],
+ "rebirthClaim": "not-stated",
+ "reportedDestination": "unspecified",
+ "aspirationForSukhavati": "uncertain",
+ "isSutraNarrative": false,
+ "synopsis": {
+  "zh": "竺道生，從竺法汰出家，入廬山幽棲七年，常誦《法華》。後入關從羅什受學，辯問超卓，咸稱神悟。虎丘講經，至「闡提皆有佛性」，頑石點頭。居半塘誦經時，有雉常來聽受；後聞其轉生為人，出家為童子，誦《法華》而早夭——瘞處一夕放光，啟視得一舌，生青蓮華，因起塔成寺（今半塘寺）。生公倡「善不受報、頓悟成佛」，守文舊學以為邪說；乃對眾發誓：若所立不違經者，捨壽時當踞師子座。後《大涅槃經》譯至，果符所說。生公升座講敷，法席將畢，麈尾紛然墜地，端坐正容而逝。",
+  "en": "Zhu Daosheng, ordained under Zhu Fatai, dwelt seven years in seclusion on Mount Lu, constantly reciting the Lotus Sutra. He later studied under Kumārajīva in Guanzhong; his dialectic surpassed all, and men called his understanding divine. Lecturing at Huqiu on the theme that even icchantikas possess buddha-nature, the very stones nodded. At Bantang, while he recited the sutra, a pheasant came regularly to listen; he later heard it had been reborn as a boy who ordained, recited the Lotus, and died young — at the grave a light shone one night, and on opening it a tongue was found bearing a green lotus, whereupon a stupa and later a monastery arose (today's Bantang Monastery). His theses — 'merit receives no recompense' and 'awakening is sudden' — the textualists damned as heresy; so he swore before the assembly: if his teaching did not contradict the sutras, he would die seated upon the lion seat. When the Great Nirvana Sutra arrived and confirmed him, he ascended the seat to teach; as the session closed, his chowry dropped from his hand, and he passed away sitting upright, composed as in meditation."
+ },
+ "witnesses": [
+  {
+   "work": "X1540",
+   "juan": 1,
+   "heading": "虎丘生法師",
+   "anchorStart": "X78n1540_p0026b10",
+   "anchorEnd": "X78n1540_p0026b10",
+   "locator": "冊78, 頁0026b10–b10",
+   "url": "https://deerpark.app/cbeta/X1540/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0026b10",
+     "text": "師諱道生，從師姓竺。年在志學，吐納清新，人皆畏服之。常以入道之要，慧解為本。故鑽仰群經，不憚勞苦。遂往關中，稟承羅什。辯問超卓，咸稱神悟。後遁蹟虎丘寺，有講臺石，至今存焉。一時居半塘，誦法華經。忽有一雉，常來聽受。一日不見，師念之。夜入夢云：某因聽經，遂獲改報。今在某家為兒子。待過數年，卻來奉事。洎師詢之，果爾。及出家，無何，童子之年便命終。因瘞于林。一夕，俄而放光，輝照塘塢。鄉人異之，啟看，乃獲一舌，生青蓮華。因是起塔，後葺成寺，即今半塘寺是也。師甞建言：善不受報，頓悟成佛。而守文舊學，以為邪說。師對眾發誓曰：若所立不違經者，於捨壽時，踞師子座。後譯大涅槃，果符所說。師即升座講敷，聽者悟悅。法席將畢，忽麈尾紛然而墜，端坐正容而逝，似若入定焉。時人語曰：生叡發天真，故知秀出者。即此矣。〔注：半塘寺蹟見續靈瑞集，餘出梁高僧傳。〕"
+    }
+   ]
+  },
+  {
+   "work": "X1541",
+   "juan": 1,
+   "heading": "宋釋道生",
+   "anchorStart": "X78n1541_p0067a09",
+   "anchorEnd": "X78n1541_p0067a09",
+   "locator": "冊78, 頁0067a09–a09",
+   "url": "https://deerpark.app/cbeta/X1541/1",
+   "accessed": "2026-10-23",
+   "paragraphs": [
+    {
+     "anchor": "0067a09",
+     "text": "鉅鹿人，幼從竺法汰出家。初入廬山，幽棲七年，時誦法華經。甞以入道之要，慧解為本，於是鑽仰羣經，不憚疲苦。往關中稟承羅什，辨問超卓，咸稱神悟。後入虎丘山講經，至闡提皆有佛性，頑石皆為點頭。又在半塘誦法華經，有一童子從師出家，亦誦法華。無何童子命終，因瘞於林。一夕聞誦經聲，鄉人異之，啟視乃獲一舌，生青蓮華，因是起塔，後葺成寺。高啟為咏詩云：黃土但埋骨，豈能埋性靈？昔聞宿草間，曾吐蓮華青。身歸長夜臺，口誦西方經，尋迹殊窅窅，聞聲每泠泠。寒燈照空塔，時有山僧聽，應使鄰塚聞，沉迷盡皆醒。〔注：即今半塘寺〕"
+    }
+   ]
+  }
+ ],
+ "editorial": {
+  "sourceVerifiedDate": "2026-10-23",
+  "translationStatus": {
+   "zh": "editorial-draft",
+   "en": "editorial-draft"
+  }
+ }
+}

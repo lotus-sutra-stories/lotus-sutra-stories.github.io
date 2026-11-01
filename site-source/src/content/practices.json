@@ -1,0 +1,42 @@
+[
+ {
+  "code": "recite",
+  "zh": "讀誦",
+  "en": "Reciting the sutra"
+ },
+ {
+  "code": "uphold",
+  "zh": "受持",
+  "en": "Upholding and retaining"
+ },
+ {
+  "code": "copy",
+  "zh": "書寫",
+  "en": "Copying the sutra"
+ },
+ {
+  "code": "lecture",
+  "zh": "講說",
+  "en": "Lecturing and teaching"
+ },
+ {
+  "code": "translate",
+  "zh": "譯經",
+  "en": "Translating the sutra"
+ },
+ {
+  "code": "repentance",
+  "zh": "懺法",
+  "en": "Repentance rites"
+ },
+ {
+  "code": "nianfo",
+  "zh": "念佛",
+  "en": "Buddha-recollection (niànfó)"
+ },
+ {
+  "code": "meditation",
+  "zh": "禪觀",
+  "en": "Meditation and samādhi"
+ }
+]
