@@ -1,0 +1,169 @@
+{
+  "id": "S021",
+  "slug": "yan-gong-copying-and-care",
+  "status": "published",
+  "title": {
+    "zh": "嚴恭：在家造經，逐字用心",
+    "en": "Yan Gong: Making Sutra Copies with Care"
+  },
+  "person": {
+    "zh": "嚴恭",
+    "en": "Yan Gong"
+  },
+  "aliases": [
+    "嚴恭",
+    "Yan Gong",
+    "楊州嚴法華"
+  ],
+  "period": {
+    "label": {
+      "zh": "隋（楊都）",
+      "en": "Sui (Yangdu)"
+    },
+    "note": {
+      "zh": "隋；丹陽人，楊都住宅",
+      "en": "Sui; a native of Danyang, with a home in Yangdu."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "peace-diligence",
+    "sutra-protection"
+  ],
+  "practices": [
+    "recite",
+    "copy",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "嚴恭在住宅設造經堂，供給書生並親自檢校，發願逐字經眼用心。原書另述造經資助與經卷保存的感應。",
+    "en": "Yan Gong established a sutra-copying hall at home, supported scribes and checked their work. The account also relates religious stories of support and the preservation of scriptures."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "楊州嚴法華",
+      "anchorStart": "X78n1540_p0056b02",
+      "anchorEnd": "X78n1540_p0056c02",
+      "locator": "冊78, 頁0056b02–0056c02",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0056b02",
+          "text": "大隋時，有嚴恭，丹陽人，舉家信嚮。常誦法華經，一時"
+        },
+        {
+          "anchor": "0056b03",
+          "text": "誦至寶塔品，輟經歎曰：寶塔之內，有二如來，分身諸"
+        },
+        {
+          "anchor": "0056b04",
+          "text": "佛，其數不少。我今何為不能感見？慨歎良久。至夜，忽"
+        },
+        {
+          "anchor": "0056b05",
+          "text": "夢一胡僧，自稱法脫，語曰：若誦此經，欲見諸佛，當解"
+        },
+        {
+          "anchor": "0056b06",
+          "text": "說書寫，流通供養，斯願可諧。恭因發心，造經一百部。"
+        },
+        {
+          "anchor": "0056b07",
+          "text": "未及成辦，忽得重病。乃更發願，增造千部。病既愈，即"
+        },
+        {
+          "anchor": "0056b08",
+          "text": "於楊都住宅，起造經堂。若紙若筆，必以淨心，不行欺"
+        },
+        {
+          "anchor": "0056b09",
+          "text": "詐，隨得便營。書生常十數人，如法供給。恭親撿挍，勞"
+        },
+        {
+          "anchor": "0056b10",
+          "text": "不告倦。甞有人從貸經錢一萬，恭不獲已與之。其人"
+        },
+        {
+          "anchor": "0056b11",
+          "text": "得錢，船過中流，忽爾沉覆，錢失人活。恭是日入庫，見"
+        },
+        {
+          "anchor": "0056b12",
+          "text": "元錢俱濕，頗怪之。後見貸人，方知沒溺。一日，忽有異"
+        },
+        {
+          "anchor": "0056b13",
+          "text": "僧，年八十許，自云：從龜茲國來，今往羅浮山去。聞君"
+        },
+        {
+          "anchor": "0056b14",
+          "text": "造經，願請一部。恭授與經，僧贈金一瓶，重四十兩，願"
+        },
+        {
+          "anchor": "0056b15",
+          "text": "助造經。言已而退。恭再尋訪，莫知所止。又有候志，從"
+        },
+        {
+          "anchor": "0056b16",
+          "text": "鄱陽來，至宮亭遇風，船伴沉溺，唯志獨存。有人引入"
+        },
+        {
+          "anchor": "0056b17",
+          "text": "廟，見神人案劒而坐，問志：還識蔣山造法華經嚴恭"
+        },
+        {
+          "anchor": "0056b18",
+          "text": "否？我欲寄錢一萬，入其功德。語已便隱。志次日至當"
+        },
+        {
+          "anchor": "0056b19",
+          "text": "塗，忽見一人，自言姓許，來覔候志，乃留錢一萬，逼令"
+        },
+        {
+          "anchor": "0056b20",
+          "text": "受之而去。志思惟，方知是神錢。纔到江寧，以錢付恭，"
+        },
+        {
+          "anchor": "0056b21",
+          "text": "恭、志更彌堅，造至三千部。又有漁人，夜見江中火焰"
+        },
+        {
+          "anchor": "0056b22",
+          "text": "焰浮來，以船迎之，乃是經一函，即嚴恭所造。後發願"
+        },
+        {
+          "anchor": "0056b23",
+          "text": "云：無一字而不經眼，無一字而不用心。然嚴恭造經"
+        },
+        {
+          "anchor": "0056b24",
+          "text": "之多，至於子孫，猶傳其業，世號恭法華也。隋季，盜賊"
+        },
+        {
+          "anchor": "0056c01",
+          "text": "縱橫，聞其積善，皆相約不入其里，里人賴之。〔注：見靈瑞集并南"
+        },
+        {
+          "anchor": "0056c02",
+          "text": "山三寶感應錄〕"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

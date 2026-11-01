@@ -7,8 +7,9 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "build:static": "DEPLOY_TARGET=github-pages next build",
-    "validate:content": "bun run scripts/validate-content.ts",
-    "validate:safety": "bun run scripts/verify-preservation.ts"
+    "validate:content": "bun run scripts/validate-release-content.ts",
+    "validate:safety": "bun run scripts/verify-release.ts",
+    "validate:release": "bun run scripts/validate-release-content.ts"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",

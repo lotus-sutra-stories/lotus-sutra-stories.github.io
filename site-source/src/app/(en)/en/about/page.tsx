@@ -13,7 +13,7 @@ import { Separator } from "@/components/ui/separator";
 export const metadata: Metadata = {
   title: UI.en.about.title,
   description: UI.en.about.lead,
-  alternates: pageAlternates("/about"),
+  alternates: pageAlternates("/about", "en"),
 };
 
 const BLOCK_ICONS = [Sparkles, ScrollText, Landmark, HeartHandshake, ShieldCheck, ScrollText];

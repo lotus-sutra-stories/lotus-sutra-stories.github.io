@@ -18,7 +18,7 @@ import { Button } from "@/components/ui/button";
 export const metadata: Metadata = {
   title: SITE.brandEn,
   description: SITE.taglineEn,
-  alternates: pageAlternates("/"),
+  alternates: pageAlternates("/", "en"),
 };
 
 export default function EnHomePage() {

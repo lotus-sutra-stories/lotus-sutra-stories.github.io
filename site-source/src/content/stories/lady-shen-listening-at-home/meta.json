@@ -1,0 +1,107 @@
+{
+  "id": "S027",
+  "slug": "lady-shen-listening-at-home",
+  "status": "published",
+  "title": {
+    "zh": "沈氏：在家聽經，久久不倦",
+    "en": "Lady Shen: Listening Steadily within the Household"
+  },
+  "person": {
+    "zh": "沈氏",
+    "en": "Lady Shen"
+  },
+  "aliases": [
+    "沈氏",
+    "Lady Shen",
+    "明州沈氏"
+  ],
+  "period": {
+    "label": {
+      "zh": "南宋紹興初（明州）",
+      "en": "Southern Song, early Shaoxing era (Mingzhou)"
+    },
+    "note": {
+      "zh": "南宋紹興初；明州相關記載",
+      "en": "Early Shaoxing era of the Southern Song; the entry is associated with Mingzhou."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "peace-diligence",
+    "auspicious"
+  ],
+  "practices": [
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "沈氏在家庭中長期聽婆婆誦《法華經》，病時願他世諸佛會中相見。原書續記坐逝與舍利，未指定西方。",
+    "en": "Lady Shen listened steadily to her mother-in-law’s recitation. Her wish to meet in an assembly of the Buddhas does not name the Western Pure Land; the source continues with accounts of seated death and relics."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "明州沈氏",
+      "anchorStart": "X78n1540_p0061b21",
+      "anchorEnd": "X78n1540_p0061c06",
+      "locator": "冊78, 頁0061b21–0061c06",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0061b21",
+          "text": "紹興初，石鰍伍氏有新婦，姓沈定海，江南人，稟性貞"
+        },
+        {
+          "anchor": "0061b22",
+          "text": "淑，善果自修。其姑每旦誦蓮經，婦則謹於事奉，凡展"
+        },
+        {
+          "anchor": "0061b23",
+          "text": "卷則來聽受，或一二品乃至一卷，久而不倦。一時感"
+        },
+        {
+          "anchor": "0061b24",
+          "text": "疾，即白姑曰：婆婆誦經，新婦獲聽，世緣告謝，不及奉"
+        },
+        {
+          "anchor": "0061c01",
+          "text": "侍，願他世諸佛會中相見，漫成一頌，乞傳之。平生快"
+        },
+        {
+          "anchor": "0061c02",
+          "text": "活，死也風流，最後一著，分付柴頭。言已，聳身加趺而"
+        },
+        {
+          "anchor": "0061c03",
+          "text": "殞。迺姑見其超脫，往白天童宏智禪師，師聞讚喜，遂"
+        },
+        {
+          "anchor": "0061c04",
+          "text": "以己龕與之。洎從火化，餘骨中所謂堅固子者，瑩然"
+        },
+        {
+          "anchor": "0061c05",
+          "text": "無數。四眾見聞，稱嘆希有。此湖心寺法政宗師親見"
+        },
+        {
+          "anchor": "0061c06",
+          "text": "聞，因得傳世。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

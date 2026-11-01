@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: ThemePageProps): Promise<Meta
   return {
     title,
     description,
-    alternates: pageAlternates(`/theme/${theme}`),
+    alternates: pageAlternates(`/theme/${theme}`, "en"),
   };
 }
 

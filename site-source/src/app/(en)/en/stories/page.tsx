@@ -11,7 +11,7 @@ import practices from "@/content/practices.json";
 export const metadata: Metadata = {
   title: UI.en.stories.title,
   description: UI.en.stories.lead,
-  alternates: pageAlternates("/stories"),
+  alternates: pageAlternates("/stories", "en"),
 };
 
 export default function EnStoriesPage() {

@@ -23,10 +23,10 @@ export function otherLocalePath(pathname: string, from: SiteLocale): string {
 }
 
 /** Canonical + hreflang alternates for a page, both locales. */
-export function pageAlternates(path: string): Metadata["alternates"] {
+export function pageAlternates(path: string, locale: SiteLocale = "zh"): Metadata["alternates"] {
   const clean = path === "/" ? "" : path.startsWith("/") ? path : `/${path}`;
   return {
-    canonical: `${SITE.pagesOrigin}${clean}/`,
+    canonical: `${SITE.pagesOrigin}${locale === "en" ? "/en" : ""}${clean}/`,
     languages: {
       "zh-Hant": `${SITE.pagesOrigin}${clean}/`,
       en: `${SITE.pagesOrigin}/en${clean}/`,

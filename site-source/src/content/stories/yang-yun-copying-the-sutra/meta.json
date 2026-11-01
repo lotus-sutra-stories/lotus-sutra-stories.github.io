@@ -1,0 +1,91 @@
+{
+  "id": "S026",
+  "slug": "yang-yun-copying-the-sutra",
+  "status": "published",
+  "title": {
+    "zh": "楊韻：一筆一畫，恭敬寫經",
+    "en": "Yang Yun: Copying with Attention and Respect"
+  },
+  "person": {
+    "zh": "楊韻",
+    "en": "Yang Yun"
+  },
+  "aliases": [
+    "楊韻",
+    "Yang Yun",
+    "湖州妓楊韻"
+  ],
+  "period": {
+    "label": {
+      "zh": "時代未詳（湖州）",
+      "en": "Period unknown (Huzhou)"
+    },
+    "note": {
+      "zh": "湖州；本條未繫確切朝代或年分",
+      "en": "Huzhou; the entry gives no secure dynasty or year."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "peace-diligence"
+  ],
+  "practices": [
+    "copy",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "other",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "楊韻抄經前齋素盥沐更衣。原書以兩夢與女嬰反應敘述其再生人間蔡家，不是已往生極樂的記錄。",
+    "en": "Yang Yun prepared respectfully before copying. The account uses two dreams and an infant’s reaction to narrate human rebirth in the Cai household, not completed rebirth in Sukhāvatī."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "湖州妓楊韻",
+      "anchorStart": "X78n1540_p0061b07",
+      "anchorEnd": "X78n1540_p0061b12",
+      "locator": "冊78, 頁0061b07–0061b12",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0061b07",
+          "text": "湖州有倡妓楊韻，手寫法華經，每執筆必先齋素盥"
+        },
+        {
+          "anchor": "0061b08",
+          "text": "沐更衣。後病死之夜，其母忽夢韻來別云：某以書經"
+        },
+        {
+          "anchor": "0061b09",
+          "text": "之力，今得託生烏程縣廳吏蔡家作女子。時蔡妻方"
+        },
+        {
+          "anchor": "0061b10",
+          "text": "娘，是夜夢有肩輿及門者，迎之則楊韻也，云：來寄宿。"
+        },
+        {
+          "anchor": "0061b11",
+          "text": "寤而生女。其母佗日往尋視之，女為之啞然一笑。〔注：聧車"
+        },
+        {
+          "anchor": "0061b12",
+          "text": "志〕"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

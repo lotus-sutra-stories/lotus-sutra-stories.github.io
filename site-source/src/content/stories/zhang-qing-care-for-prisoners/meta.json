@@ -1,0 +1,108 @@
+{
+  "id": "S023",
+  "slug": "zhang-qing-care-for-prisoners",
+  "status": "published",
+  "title": {
+    "zh": "張慶：把持誦帶進照顧囚人的職責",
+    "en": "Zhang Qing: Care for Prisoners as Part of Daily Responsibility"
+  },
+  "person": {
+    "zh": "張慶",
+    "en": "Zhang Qing"
+  },
+  "aliases": [
+    "張慶",
+    "Zhang Qing",
+    "宋汴京張慶"
+  ],
+  "period": {
+    "label": {
+      "zh": "北宋祥符年間（汴京）",
+      "en": "Northern Song, Xiangfu era (Bianjing)"
+    },
+    "note": {
+      "zh": "北宋祥符年間；汴京",
+      "en": "Northern Song, Xiangfu era; Bianjing."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "compassion",
+    "peace-diligence"
+  ],
+  "practices": [
+    "recite",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "司獄張慶照顧囚人的飲食、湯藥與臥具，勸勿誣良善，為將受刑者齋素誦經。妻復甦及子孫仕宦仍屬原書敘事。",
+    "en": "Prison official Zhang Qing attended to prisoners’ food, medicine and bedding, urged honesty and recited for people facing execution. Accounts of his wife’s revival and descendants remain religious testimony."
+  },
+  "witnesses": [
+    {
+      "work": "X1541",
+      "juan": 2,
+      "heading": "宋汴京張慶",
+      "anchorStart": "X78n1541_p0084c17",
+      "anchorEnd": "X78n1541_p0085a02",
+      "locator": "冊78, 頁0084c17–0085a02",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1541_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0084c17",
+          "text": "祥符中，為司獄，常以慈慎自持，日躬侍"
+        },
+        {
+          "anchor": "0084c18",
+          "text": "掃滌，暑月尤勤飲食，湯藥臥具，必加精潔。每戒其徒"
+        },
+        {
+          "anchor": "0084c19",
+          "text": "曰：人不幸罹於法，我輩若不知所恤，則罪者何所赴"
+        },
+        {
+          "anchor": "0084c20",
+          "text": "訴。生平持誦法華經，每遇重囚就戮，必為齋素誦經，"
+        },
+        {
+          "anchor": "0084c21",
+          "text": "一月乃止。甞教獄囚，有罪當自認，毋誣良善，以重己"
+        },
+        {
+          "anchor": "0084c22",
+          "text": "孽。妻袁氏，年四十八，染疫死，三日忽甦，曰：我始至一"
+        },
+        {
+          "anchor": "0084c23",
+          "text": "穢所，思得清凉處，忽見白衣大士謂曰：汝不當至此，"
+        },
+        {
+          "anchor": "0084c24",
+          "text": "且尚未有嗣，汝夫多陰德，子孫當有興者。乃以手挈"
+        },
+        {
+          "anchor": "0085a01",
+          "text": "之出，得甦。明年生子亨，官三班借職。慶年八十二，無"
+        },
+        {
+          "anchor": "0085a02",
+          "text": "疾終。六孫皆顯官，號世族。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}
