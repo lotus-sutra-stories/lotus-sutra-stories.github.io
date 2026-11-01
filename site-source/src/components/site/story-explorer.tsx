@@ -7,6 +7,8 @@ import type { SiteLocale } from "@/config/site";
 import type { StoryCardData } from "@/lib/cards";
 import type { SearchDoc } from "@/lib/content";
 import type { TaxonomyType } from "@/lib/types";
+import { IDENTITY_CATEGORIES, IDENTITY_LABEL, IDENTITY_FILTER_LABEL, IDENTITY_SCOPE_LABEL } from "@/lib/identities";
+import { filterStories } from "@/lib/story-filters";
 import { UI, fmt } from "@/lib/i18n";
 import { BOOKMARK_FILTER_LABEL, REBIRTH_LABEL, THEME_LABEL } from "@/lib/labels";
 import { useBookmarks } from "@/hooks/use-bookmarks";
@@ -14,20 +16,6 @@ import { FilterSelect } from "@/components/site/filters";
 import { StoryCard } from "@/components/site/story-card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-
-function matchesQuery(doc: SearchDoc, tokens: string[]): boolean {
-  const hay = [
-    doc.title,
-    doc.person,
-    doc.period,
-    doc.synopsis,
-    doc.aliases.join(" "),
-    doc.body ?? "",
-  ]
-    .join("\n")
-    .toLowerCase();
-  return tokens.every((token) => hay.includes(token));
-}
 
 /**
  * All-stories explorer: client-side full-text search over the locale
@@ -50,6 +38,7 @@ export function StoryExplorer({
   const t = UI[locale];
   const [query, setQuery] = useState("");
   const [theme, setTheme] = useState("all");
+  const [identity, setIdentity] = useState("all");
   const [type, setType] = useState("all");
   const [practice, setPractice] = useState("all");
   const [period, setPeriod] = useState("all");
@@ -57,7 +46,6 @@ export function StoryExplorer({
   const [bookmarksOnly, setBookmarksOnly] = useState(false);
   const bookmarked = useBookmarks();
 
-  const docMap = useMemo(() => new Map(docs.map((d) => [d.slug, d])), [docs]);
 
   const periods = useMemo(() => {
     const seen: string[] = [];
@@ -86,26 +74,15 @@ export function StoryExplorer({
       .map((r) => ({ value: r, label: REBIRTH_LABEL[r][locale] }));
   }, [metas, locale]);
 
-  const filtered = useMemo(() => {
-    const tokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    return metas.filter((m) => {
-      if (tokens.length > 0) {
-        const doc = docMap.get(m.slug);
-        if (!doc || !matchesQuery(doc, tokens)) return false;
-      }
-      if (theme !== "all" && !m.themes.includes(theme as "peaceful-life" | "pure-land")) return false;
-      if (type !== "all" && !m.secondaryTypes.includes(type)) return false;
-      if (practice !== "all" && !m.practices.includes(practice)) return false;
-      if (period !== "all" && m.periodLabel[locale] !== period) return false;
-      if (rebirth !== "all" && m.rebirthClaim !== rebirth) return false;
-      if (bookmarksOnly && !bookmarked.has(m.slug)) return false;
-      return true;
-    });
-  }, [metas, query, theme, type, practice, period, rebirth, bookmarksOnly, bookmarked, docMap, locale]);
+  const filtered = useMemo(
+    () => filterStories(metas, docs, locale, { query, theme, identity, type, practice, period, rebirth, bookmarksOnly }, bookmarked),
+    [metas, docs, locale, query, theme, identity, type, practice, period, rebirth, bookmarksOnly, bookmarked],
+  );
 
   const hasFilters =
     query.trim() !== "" ||
     theme !== "all" ||
+    identity !== "all" ||
     type !== "all" ||
     practice !== "all" ||
     period !== "all" ||
@@ -116,6 +93,7 @@ export function StoryExplorer({
     setQuery("");
     setTheme("all");
     setType("all");
+    setIdentity("all");
     setPractice("all");
     setPeriod("all");
     setRebirth("all");
@@ -142,7 +120,7 @@ export function StoryExplorer({
           />
         </div>
 
-        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-3">
           <FilterSelect
             id="filter-theme"
             label={t.stories.themesLabel}
@@ -156,6 +134,14 @@ export function StoryExplorer({
               { value: "peaceful-life", label: THEME_LABEL["peaceful-life"][locale] },
               { value: "pure-land", label: THEME_LABEL["pure-land"][locale] },
             ]}
+          />
+          <FilterSelect
+            id="filter-identity"
+            label={IDENTITY_FILTER_LABEL[locale]}
+            allLabel={t.taxonomy.filterAll}
+            value={identity}
+            onChange={setIdentity}
+            options={IDENTITY_CATEGORIES.map((value) => ({ value, label: IDENTITY_LABEL[value][locale] }))}
           />
           <FilterSelect
             id="filter-type"
@@ -190,6 +176,8 @@ export function StoryExplorer({
             options={rebirthOptions}
           />
         </div>
+
+        <p className="text-xs leading-relaxed text-muted-foreground">{IDENTITY_SCOPE_LABEL[locale]}</p>
 
         <div className="flex flex-wrap items-center gap-2">
           <Button

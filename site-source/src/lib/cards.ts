@@ -1,3 +1,5 @@
+import { getIdentityCategory } from "./identity-records";
+import type { IdentityCategory } from "./identities";
 import type { StoryMeta, Theme, RebirthClaim, ReportedDestination } from "./types";
 
 /**
@@ -6,6 +8,7 @@ import type { StoryMeta, Theme, RebirthClaim, ReportedDestination } from "./type
  * paragraph texts out of listing pages.
  */
 export interface StoryCardData {
+  identityCategory: IdentityCategory;
   id: string;
   slug: string;
   title: { zh: string; en: string };
@@ -25,6 +28,7 @@ export interface StoryCardData {
 
 export function toCardData(m: StoryMeta): StoryCardData {
   return {
+    identityCategory: getIdentityCategory(m.id),
     id: m.id,
     slug: m.slug,
     title: m.title,

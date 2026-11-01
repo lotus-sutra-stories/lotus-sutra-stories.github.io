@@ -1,0 +1,92 @@
+{
+  "id": "S025",
+  "slug": "unnamed-attendant-sutra-at-sea",
+  "status": "published",
+  "title": {
+    "zh": "蘇刺史家女使：姓名未傳，讀誦未歇",
+    "en": "An Unnamed Attendant: Continuing to Read the Sutra"
+  },
+  "person": {
+    "zh": "蘇刺史家女使",
+    "en": "An unnamed attendant in Su Chang’s household"
+  },
+  "aliases": [
+    "蘇刺史家女使",
+    "An unnamed attendant in Su Chang’s household",
+    "蘇刺史女使"
+  ],
+  "period": {
+    "label": {
+      "zh": "唐武德年間",
+      "en": "Tang, Wude era"
+    },
+    "note": {
+      "zh": "唐武德年間；渡嘉凌江，後嫁揚州",
+      "en": "Tang Wude era; a crossing of the Jialing River and later marriage in Yangzhou."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "rescue",
+    "sutra-protection"
+  ],
+  "practices": [
+    "recite",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "蘇長家一位未具名女使平日讀經。船難中，原書述她戴經函至岸、經不濕；後嫁揚州仍勤讀誦。不是刺史女兒。",
+    "en": "An unnamed attendant in Su Chang’s household regularly read the sutra. The source reports her survival with its case during a shipwreck and continued practice after marriage; she is not the prefect’s daughter."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "蘇刺史女使",
+      "anchorStart": "X78n1540_p0060b21",
+      "anchorEnd": "X78n1540_p0060c02",
+      "locator": "冊78, 頁0060b21–0060c02",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0060b21",
+          "text": "唐武德中，都水使蘇長，授巴州刺史，帶家族赴官。因"
+        },
+        {
+          "anchor": "0060b22",
+          "text": "渡嘉凌江，中流風作，船帆頎沒。男女六十餘人，一時"
+        },
+        {
+          "anchor": "0060b23",
+          "text": "喪失。唯一女使，常讀法華法經。浪入船，女乃頭戴經"
+        },
+        {
+          "anchor": "0060b24",
+          "text": "函，誓與俱沒。既而女即不沉，隨波泛泛。頃刻至岸，捧"
+        },
+        {
+          "anchor": "0060c01",
+          "text": "函而上。開視其經，了無沾濕。此女後嫁於揚州，其篤"
+        },
+        {
+          "anchor": "0060c02",
+          "text": "信讀誦，愈於舊也。〔注：法苑珠林〕"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

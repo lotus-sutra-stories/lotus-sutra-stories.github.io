@@ -1,0 +1,120 @@
+{
+  "id": "S024",
+  "slug": "elder-lu-leaving-slaughter",
+  "status": "published",
+  "title": {
+    "zh": "陸翁：放下刀秤，從日課開始改變",
+    "en": "Elder Lu: Leaving Slaughter and Sustaining a Practice"
+  },
+  "person": {
+    "zh": "陸翁",
+    "en": "Elder Lu"
+  },
+  "aliases": [
+    "陸翁",
+    "Elder Lu",
+    "宋湖州城南屠戶陸翁"
+  ],
+  "period": {
+    "label": {
+      "zh": "宋（湖州）",
+      "en": "Song (Huzhou)"
+    },
+    "note": {
+      "zh": "宋；湖州城南；生卒年未詳",
+      "en": "Song; south of Huzhou; birth and death years unknown."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "compassion",
+    "peace-diligence"
+  ],
+  "practices": [
+    "recite",
+    "repentance"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "陸翁承襲屠業，聞勸後止殺，學誦法華、金剛二經，懺悔回向所殺眾生早生淨土。原文年數有出入，未明言本人已往生。",
+    "en": "Elder Lu left inherited slaughter work, learned two sutras and dedicated his repentance to beings he had killed. The source’s duration is inconsistent and does not explicitly declare his completed Pure Land rebirth."
+  },
+  "witnesses": [
+    {
+      "work": "X1541",
+      "juan": 2,
+      "heading": "宋湖州城南屠戶陸翁",
+      "anchorStart": "X78n1541_p0085c01",
+      "anchorEnd": "X78n1541_p0085c13",
+      "locator": "冊78, 頁0085c01–0085c13",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1541_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0085c01",
+          "text": "年二十三時，見一雲水僧至"
+        },
+        {
+          "anchor": "0085c02",
+          "text": "門，口稱教化有緣人，陸不領解。僧云：汝殺牛羊無數，"
+        },
+        {
+          "anchor": "0085c03",
+          "text": "何不改業？陸云：承襲祖業，遽難棄捨。僧曰：汝不改，後"
+        },
+        {
+          "anchor": "0085c04",
+          "text": "世必墮此類，仍受冤報，無有出期。吾觀汝宿有善根，"
+        },
+        {
+          "anchor": "0085c05",
+          "text": "可亟專心受持蓮華經及金剛經，消除惡業，增長善"
+        },
+        {
+          "anchor": "0085c06",
+          "text": "福。言訖，忽不見。陸遂省悟，持齋誓不宰殺，繪阿彌陀"
+        },
+        {
+          "anchor": "0085c07",
+          "text": "佛、觀音、勢至像一軸，虔裝供養，投師習誦二經。未及"
+        },
+        {
+          "anchor": "0085c08",
+          "text": "五年，自能暗誦，每日於佛前焚香，誦蓮經一部、金剛"
+        },
+        {
+          "anchor": "0085c09",
+          "text": "經一卷，懺悔願度所殺眾生，早生淨土。年八十一，將"
+        },
+        {
+          "anchor": "0085c10",
+          "text": "辭世，半月前徧約親友，於十一月初九日具蔬相別，"
+        },
+        {
+          "anchor": "0085c11",
+          "text": "及期俱赴。齋罷，忽索浴更衣，端坐作頌而化。頌曰：六"
+        },
+        {
+          "anchor": "0085c12",
+          "text": "十餘年離殺業，手拋刀秤暗修行。今朝得趣菩提路，"
+        },
+        {
+          "anchor": "0085c13",
+          "text": "水裏蓮花火裏生。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

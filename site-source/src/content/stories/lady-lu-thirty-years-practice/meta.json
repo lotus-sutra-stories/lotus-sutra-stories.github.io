@@ -1,0 +1,82 @@
+{
+  "id": "S029",
+  "slug": "lady-lu-thirty-years-practice",
+  "status": "published",
+  "title": {
+    "zh": "宜人陸氏：三十年持誦，心向淨土",
+    "en": "Lady Lu: Thirty Years of Practice with the Pure Land in Mind"
+  },
+  "person": {
+    "zh": "宜人陸氏",
+    "en": "Lady Lu"
+  },
+  "aliases": [
+    "宜人陸氏",
+    "Lady Lu",
+    "宋宜人陸氏"
+  ],
+  "period": {
+    "label": {
+      "zh": "宋（錢塘）",
+      "en": "Song (Qiantang)"
+    },
+    "note": {
+      "zh": "宋；錢塘；生卒未詳",
+      "en": "Song; Qiantang; birth and death years unknown."
+    }
+  },
+  "themes": [
+    "pure-land"
+  ],
+  "secondaryTypes": [
+    "perseverance",
+    "deathbed",
+    "lay"
+  ],
+  "practices": [
+    "recite",
+    "repentance",
+    "nianfo"
+  ],
+  "rebirthClaim": "interpreted",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "陸氏為王璵妻，持法華、禮懺、念佛三十年，篤意淨土。面西結印與天鼓為原書瑞相記載，未明言已生極樂。",
+    "en": "Lady Lu, wife of Wang Yu, sustained recitation, repentance and Buddha-recitation for thirty years. Her Pure Land intention is explicit, but the signs at death do not explicitly establish completed rebirth in Sukhāvatī."
+  },
+  "witnesses": [
+    {
+      "work": "X1541",
+      "juan": 2,
+      "heading": "宋宜人陸氏",
+      "anchorStart": "X78n1541_p0086a15",
+      "anchorEnd": "X78n1541_p0086a17",
+      "locator": "冊78, 頁0086a15–0086a17",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1541_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0086a15",
+          "text": "錢塘人，朝請王璵妻也。常誦法華，篤意"
+        },
+        {
+          "anchor": "0086a16",
+          "text": "淨土，禮懺一會，念佛萬聲，三十年不輟。後因微疾，忽"
+        },
+        {
+          "anchor": "0086a17",
+          "text": "聞天鼓自鳴，人方驚異，氏即向西雙手結印而逝。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

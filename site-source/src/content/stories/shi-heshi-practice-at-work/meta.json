@@ -1,0 +1,93 @@
+{
+  "id": "S022",
+  "slug": "shi-heshi-practice-at-work",
+  "status": "published",
+  "title": {
+    "zh": "史呵誓：公務往返間，常存悲忍",
+    "en": "Shi Heshi: Recitation and Compassion alongside Work"
+  },
+  "person": {
+    "zh": "史呵誓",
+    "en": "Shi Heshi"
+  },
+  "aliases": [
+    "史呵誓",
+    "Shi Heshi",
+    "京師史呵誓"
+  ],
+  "period": {
+    "label": {
+      "zh": "唐（京師）",
+      "en": "Tang (capital region)"
+    },
+    "note": {
+      "zh": "唐；京城西南豐谷鄉史村",
+      "en": "Tang; Shicun in Fenggu Township, southwest of the capital."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "peace-diligence",
+    "compassion",
+    "auspicious"
+  ],
+  "practices": [
+    "recite",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "令史史呵誓常誦安樂行相關經文，以悲忍為懷，在往返京省中持誦。難句保留未解；臨終與舌相按原書轉述。",
+    "en": "A clerk named Shi Heshi kept compassion and patience in mind while reciting alongside his duties. A difficult phrase remains unresolved; signs at death are attributed to the source."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "京師史呵誓",
+      "anchorStart": "X78n1540_p0056c04",
+      "anchorEnd": "X78n1540_p0056c09",
+      "locator": "冊78, 頁0056c04–0056c09",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0056c04",
+          "text": "唐京城西南豊谷鄉史村史呵誓，少懷善道，秉節清"
+        },
+        {
+          "anchor": "0056c05",
+          "text": "高。常誦法華四安樂行品，時刻不輟，悲忍在懷。誓不"
+        },
+        {
+          "anchor": "0056c06",
+          "text": "乘馬，以經云哀憫一切故也。虗約為心，名沾令史。往"
+        },
+        {
+          "anchor": "0056c07",
+          "text": "還京省，心懸持誦。恐逢相識，行必支經。至臨終日，感"
+        },
+        {
+          "anchor": "0056c08",
+          "text": "異香充室，親里同聞。埋殯十年，妻亡合葬。乘便啟看，"
+        },
+        {
+          "anchor": "0056c09",
+          "text": "乃見舌相鮮紅。因以別遷顯所。〔注：珠林〕"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

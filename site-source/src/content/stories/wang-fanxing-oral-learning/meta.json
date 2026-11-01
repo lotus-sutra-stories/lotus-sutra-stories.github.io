@@ -1,0 +1,116 @@
+{
+  "id": "S020",
+  "slug": "wang-fanxing-oral-learning",
+  "status": "published",
+  "title": {
+    "zh": "王梵行：母親口授，持誦與手作相伴",
+    "en": "Wang Fanxing: Learning by Ear, Practising in Daily Life"
+  },
+  "person": {
+    "zh": "王梵行",
+    "en": "Wang Fanxing"
+  },
+  "aliases": [
+    "王梵行",
+    "Wang Fanxing",
+    "臨沂王梵行"
+  ],
+  "period": {
+    "label": {
+      "zh": "隋（臨沂）",
+      "en": "Sui (Linyi)"
+    },
+    "note": {
+      "zh": "隋；《顯應錄》繫開皇年間",
+      "en": "Sui; the Xianying lu places the account in the Kaihuang era."
+    }
+  },
+  "themes": [
+    "peaceful-life"
+  ],
+  "secondaryTypes": [
+    "peace-diligence",
+    "auspicious"
+  ],
+  "practices": [
+    "recite",
+    "uphold"
+  ],
+  "rebirthClaim": "not-stated",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "王梵行自少失明，母親口授《法華經》。原書記他仍失明而能織簟縫衣，長期持誦；身後有舌不壞敘事。",
+    "en": "Blind from childhood, Wang Fanxing learned the Lotus Sutra orally from his mother. The source describes continued blindness, daily handwork and sustained recitation, followed by an account of an intact tongue after death."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "臨沂王梵行",
+      "anchorStart": "X78n1540_p0056a06",
+      "anchorEnd": "X78n1540_p0056a11",
+      "locator": "冊78, 頁0056a06–0056a11",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0056a06",
+          "text": "開皇年，臨沂有王梵行，少瞽兩目。其母慈念，口授法"
+        },
+        {
+          "anchor": "0056a07",
+          "text": "華經，誦計一萬七千部。其後目雖瞽，其日夕往返，織"
+        },
+        {
+          "anchor": "0056a08",
+          "text": "簟縫衣等事，皆無礙。人疑其別有所得，問之，終不肯"
+        },
+        {
+          "anchor": "0056a09",
+          "text": "說。布衣[蔬-(梳-木)+束]食，終身不娶，年七十一而終。遺言令送屍"
+        },
+        {
+          "anchor": "0056a10",
+          "text": "林野，任禽獸噉食。肉盡骨存，舌則不壞，色如蓮華。有"
+        },
+        {
+          "anchor": "0056a11",
+          "text": "弟慧義，以塼函盛之，香燈崇奉。〔注：靈瑞集〕"
+        }
+      ]
+    },
+    {
+      "work": "X1541",
+      "juan": 1,
+      "heading": "隋臨沂王梵行",
+      "anchorStart": "X78n1541_p0074b16",
+      "anchorEnd": "X78n1541_p0074b18",
+      "locator": "冊78, 頁0074b16–0074b18",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1541_001",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0074b16",
+          "text": "少瞽，其母慈念，口授法華經，布衣蔬"
+        },
+        {
+          "anchor": "0074b17",
+          "text": "食，禪誦無缺，計誦經一萬七千部。後跏坐而逝，遺言"
+        },
+        {
+          "anchor": "0074b18",
+          "text": "露尸林野。久之，皮肉既盡，惟舌不壞，色如蓮華。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

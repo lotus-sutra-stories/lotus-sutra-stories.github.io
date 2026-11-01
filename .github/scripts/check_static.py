@@ -40,8 +40,8 @@ en = {
     for p in (root / "en/stories").glob("*/index.html")
 }
 
-check(len(zh) == 19, f"Chinese stories: {len(zh)}/19")
-check(len(en) == 19, f"English stories: {len(en)}/19")
+check(len(zh) == 29, f"Chinese stories: {len(zh)}/29")
+check(len(en) == 29, f"English stories: {len(en)}/29")
 check(zh == en, "Chinese and English story slugs match")
 
 # Check deployment asset references in generated HTML.
@@ -111,3 +111,7 @@ if errors:
     sys.exit(1)
 
 print("ALL STATIC SITE CHECKS PASSED")
+
+# Additional route, metadata, payload and publication-boundary checks.
+import runpy
+runpy.run_path(str(root / "site-source/scripts/check-release-static.py"), run_name="__main__")

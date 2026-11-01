@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: StoryPageProps): Promise<Meta
   return {
     title: meta.title.en,
     description: meta.synopsis.en,
-    alternates: pageAlternates(`/stories/${meta.slug}`),
+    alternates: pageAlternates(`/stories/${meta.slug}`, "en"),
     openGraph: {
       title: `${meta.title.en} · ${UI.en.home.heroKicker}`,
       description: meta.synopsis.en,

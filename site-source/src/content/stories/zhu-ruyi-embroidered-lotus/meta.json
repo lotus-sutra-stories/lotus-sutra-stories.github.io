@@ -1,0 +1,158 @@
+{
+  "id": "S028",
+  "slug": "zhu-ruyi-embroidered-lotus",
+  "status": "published",
+  "title": {
+    "zh": "朱如一：十年繡經，持誦與念佛相伴",
+    "en": "Zhu Ruyi: Ten Years Embroidering the Lotus Sutra"
+  },
+  "person": {
+    "zh": "朱如一",
+    "en": "Zhu Ruyi"
+  },
+  "aliases": [
+    "朱如一",
+    "Zhu Ruyi",
+    "明州朱如一"
+  ],
+  "period": {
+    "label": {
+      "zh": "南宋（四明）",
+      "en": "Southern Song (Siming)"
+    },
+    "note": {
+      "zh": "南宋；四明薛氏之妻；X1541 記紹熙四年",
+      "en": "Southern Song; wife of a man of the Xue household in Siming; the Chiyan ji gives the fourth Shaoxi year."
+    }
+  },
+  "themes": [
+    "pure-land"
+  ],
+  "secondaryTypes": [
+    "perseverance",
+    "deathbed",
+    "lay"
+  ],
+  "practices": [
+    "uphold",
+    "recite",
+    "nianfo"
+  ],
+  "rebirthClaim": "interpreted",
+  "reportedDestination": "unspecified",
+  "aspirationForSukhavati": "uncertain",
+  "isSutraNarrative": false,
+  "synopsis": {
+    "zh": "朱如一用十年繡成七軸法華經，並持誦、勸念彌陀。兩書異文分列；臨終自述不等於敘述者已證往生。",
+    "en": "Zhu Ruyi spent ten years embroidering the Lotus Sutra and encouraged Amitabha-recitation. The two witnesses remain separate; a statement made before death does not establish completed rebirth."
+  },
+  "witnesses": [
+    {
+      "work": "X1540",
+      "juan": 2,
+      "heading": "明州朱如一",
+      "anchorStart": "X78n1540_p0061c18",
+      "anchorEnd": "X78n1540_p0062a05",
+      "locator": "冊78, 頁0061c18–0062a05",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1540_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0061c18",
+          "text": "朱氏，名如一，四明薛君之室也。裔出欽成皇后，淵"
+        },
+        {
+          "anchor": "0061c19",
+          "text": "聖宮中兩世之孫。自歸于薛，視世味如塵泥。年二十"
+        },
+        {
+          "anchor": "0061c20",
+          "text": "餘，即告其夫，清淨自居，道裝素服，潔齋如也。甞以黃"
+        },
+        {
+          "anchor": "0061c21",
+          "text": "絹命經生書蓮經七軸，手以碧茸繡其上，線蹊鍼孔，"
+        },
+        {
+          "anchor": "0061c22",
+          "text": "去來緜密如墨，新閱十年而成。復繡彌陀、觀音，無異"
+        },
+        {
+          "anchor": "0061c23",
+          "text": "繪畫。自經首題致敬八萬四千拜，一句一字，凡唱禮"
+        },
+        {
+          "anchor": "0061c24",
+          "text": "者三。法華一部，三月而能背誦。又勸二十萬人念彌"
+        },
+        {
+          "anchor": "0062a01",
+          "text": "陀佛，鋟木為圖，滿十萬聲而止。即貿奩具，建三日會，"
+        },
+        {
+          "anchor": "0062a02",
+          "text": "會道俗萬計，飯千苾蒭。造寶幢，貯法華經及念佛人"
+        },
+        {
+          "anchor": "0062a03",
+          "text": "名，迎歸于延慶寺。忽感微疾，至瞑目時，即起跏趺。薛"
+        },
+        {
+          "anchor": "0062a04",
+          "text": "君曰：吾家無是法，請就寢。乃右脇而終，年三十七。橘"
+        },
+        {
+          "anchor": "0062a05",
+          "text": "洲禪師寶曇贊云。"
+        }
+      ]
+    },
+    {
+      "work": "X1541",
+      "juan": 2,
+      "heading": "宋朱氏如一",
+      "anchorStart": "X78n1541_p0085c14",
+      "anchorEnd": "X78n1541_p0085c20",
+      "locator": "冊78, 頁0085c14–0085c20",
+      "url": "https://cbetaonline.dila.edu.tw/zh/X1541_002",
+      "accessed": "2026-11-01",
+      "paragraphs": [
+        {
+          "anchor": "0085c14",
+          "text": "幼歸四明薛氏，年二十餘，即清淨自居。"
+        },
+        {
+          "anchor": "0085c15",
+          "text": "道裝素服，蕭然林下。繡妙法華經七軸，十年而成。至"
+        },
+        {
+          "anchor": "0085c16",
+          "text": "化城，喻針鋒綴舍利如粟，連獲數十粒。一句一字，凡"
+        },
+        {
+          "anchor": "0085c17",
+          "text": "唱禮者三。及繡彌陀三聖像，極為奇妙。諸大椉經，誦"
+        },
+        {
+          "anchor": "0085c18",
+          "text": "若建瓴。甞鋟木為圖，勸人念佛。所化之數，盈二十萬。"
+        },
+        {
+          "anchor": "0085c19",
+          "text": "紹熙四年，示微疾。醫進丹砂曰：吾往生決矣，丹砂何"
+        },
+        {
+          "anchor": "0085c20",
+          "text": "為？翛然右脅而逝。橘州曇禪師作傳。"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "sourceVerifiedDate": "2026-11-01",
+    "translationStatus": {
+      "zh": "editorial-draft",
+      "en": "editorial-draft"
+    }
+  }
+}

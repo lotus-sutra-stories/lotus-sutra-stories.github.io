@@ -27,7 +27,7 @@ import {
 export const metadata: Metadata = {
   title: UI.en.methodology.title,
   description: UI.en.methodology.lead,
-  alternates: pageAlternates("/methodology"),
+  alternates: pageAlternates("/methodology", "en"),
 };
 
 const SECTION_ICONS = [BookCheck, ScrollText, Languages, Layers, History, Link2];

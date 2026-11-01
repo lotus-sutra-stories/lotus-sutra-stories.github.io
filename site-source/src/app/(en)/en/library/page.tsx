@@ -21,7 +21,7 @@ import {
 export const metadata: Metadata = {
   title: UI.en.library.title,
   description: UI.en.library.lead,
-  alternates: pageAlternates("/library"),
+  alternates: pageAlternates("/library", "en"),
 };
 
 export default function EnLibraryPage() {

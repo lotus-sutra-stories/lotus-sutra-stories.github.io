@@ -7,7 +7,7 @@ import { LicensingBody } from "@/components/site/licensing-body";
 export const metadata: Metadata = {
   title: UI.en.licensing.title,
   description: UI.en.licensing.lead,
-  alternates: pageAlternates("/licensing"),
+  alternates: pageAlternates("/licensing", "en"),
 };
 
 export default function EnLicensingPage() {
